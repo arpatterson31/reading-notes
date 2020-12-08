@@ -34,3 +34,5 @@ Examples:
 |Basic Text Editor | Coding Text Editor | IDE|
 |-------------------|-----------------------|-------------|
 |pre-installed | many are free | many free, some cost|
+|no special features|different ones come with different features|stocked with features|
+|text editor only | text editor only | text editor, file manager, compiler, debugger|
