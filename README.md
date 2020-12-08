@@ -17,7 +17,7 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
 
 
 ### Learning Library
-[Learning Markdown](https://arpatterson31.github.io/reading-notes/learning-markdown)
+[Markdown](https://arpatterson31.github.io/reading-notes/learning-markdown)
 
 
 
