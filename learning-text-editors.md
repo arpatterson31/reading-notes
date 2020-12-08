@@ -30,5 +30,7 @@ Examples:
 
 
 
-Basic Text Editor | Coding Text Editor | IDE
---------------------|-----------------------|-------------
+
+|Basic Text Editor | Coding Text Editor | IDE|
+|-------------------|-----------------------|-------------|
+|pre-installed | many are free | many free, some cost|
