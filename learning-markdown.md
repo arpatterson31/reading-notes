@@ -1,5 +1,3 @@
-# Learning Library
-
 
 ## Markdown - its a way to style text on the web
 ### Why is it used?
