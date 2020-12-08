@@ -1,5 +1,5 @@
 
-## Markdown - its a way to style text on the web
+## Markdown - a way to style text on the web
 ### Why is it used?
  1. Simple (who doesn't like that?)
  2. Easier to read
