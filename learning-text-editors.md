@@ -26,5 +26,9 @@ Examples:
 
 
 ### IDEs - Integrated Development Environment  
-> One stop shop: text editor, file manager, compiler, and debugger
+> One stop shop: text editor, file manager, compiler, and debugger  
 
+
+
+Basic Text Editor | Coding Text Editor | IDE
+--------------------|-----------------------|-------------
