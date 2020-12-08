@@ -20,7 +20,7 @@ Examples:
  + Atom
  + Sublime Text (premium - comes with a price tag)
 
-##### **NOTE: Computers come with text editors installed but lack features to help you code efficiently.** 
+**NOTE: Computers come with text editors installed but lack features to help you code efficiently.** 
  + Text Edit on Macs
  + Notepad on Windows
 
