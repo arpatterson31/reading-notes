@@ -1,4 +1,4 @@
-# Audrey's Reading Notes for 102
+# Audrey's Reading Notes for 102  
 `
 `
 ## Growth MindSet
