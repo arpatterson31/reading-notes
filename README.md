@@ -1,4 +1,5 @@
-# My Coding Journey  
+# My Coding Journey 
+[About Me](https://arpatterson31.github.io/reading-notes/about-me)
 `
 `
 ## Growth MindSet
@@ -18,4 +19,4 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
 [Learning Markdown](https://arpatterson31.github.io/reading-notes/learning-markdown)
 
 
-[About Me](https://arpatterson31.github.io/reading-notes/about-me)
+
