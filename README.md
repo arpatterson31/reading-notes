@@ -5,5 +5,5 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
 
 ### Reminders to help me stay in a Growth Mindset
  - Push myself out of my comfort zone
- - Don't take feedback personally - learn from it
- - Don't be afraid to ask question
+ - Don't take feedback personally - learn from it :smiley:
+ - Don't be afraid to ask question 
