@@ -11,4 +11,4 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
  - Don't be afraid to ask question 
  - **YOU GOT THIS!**
 
-![Growth mindset] (https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
+![Growth Mindset](https://www.mvisd.com/cms/lib/TX02216263/Centricity/Domain/1042/brain-teasers-compressor.png)
