@@ -1,4 +1,4 @@
-# Coding Journey  
+# My Coding Journey  
 `
 `
 ## Growth MindSet
