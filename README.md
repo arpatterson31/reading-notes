@@ -10,3 +10,5 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
  - Don't take feedback personally - learn from it 
  - Don't be afraid to ask question 
  - **YOU GOT THIS!**
+
+![Growth mindset] (https://www.talent-quarterly.com/wp-content/uploads/2020/04/Growth_mindset_illustration.jpg)
