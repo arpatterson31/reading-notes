@@ -8,3 +8,4 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
  - Push myself out of my comfort zone
  - Don't take feedback personally - learn from it 
  - Don't be afraid to ask question 
+ - YOU GOT THIS!
