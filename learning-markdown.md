@@ -35,3 +35,8 @@ Start by adding the exclamation mark `!` then include text in brackets `[]`, the
 
 #### Linking pages
 Start with adding text in brackets `[]`, then including the url in parentheses `()`. 
+
+######Helpful resources
+ + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+ + [GitHub - Markdown Syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
+ + [GitHub Pages](https://pages.github.com/)
