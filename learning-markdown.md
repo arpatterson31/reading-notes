@@ -6,15 +6,14 @@
 
 
 ### Headers
-Use the `#` symbol to create a header. For every # symbol you use, it changes the size of the heading. Max is 6 `#`
-
+Use the `#` symbol to create a header. For every # symbol you use, it changes the size of the heading. Max is 6 `#`  
  + Using One `#` symbol creates the largest heading
  + Using 2 `#` symbols will create a second largest heading and so forth
 
 
 ### Lists
 ##### Ordered
- + To create an ordered list: start each line with a number and a period: `1.`, `2.`, `3.`, etc
+ + To create an ordered list: start each line with a number and a period: `1.`, `2.`, `3.`, etc  
 ##### Unordered or bullet list
  + To create an unorder or bullet list: start each line with an `*` , a `-`, or a `+`
 
@@ -23,7 +22,6 @@ Use the `#` symbol to create a header. For every # symbol you use, it changes th
 ##### Bold
 To make text appear **bold** wrap the text with `**` on each side
   + Example - `**this will appear bold**` --> **this will appear bold**
-
 
 ##### Italic
 To italicize *text* wrap the text with a single `*` on each side
