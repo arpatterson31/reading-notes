@@ -25,7 +25,8 @@ To create an unorder or bullet list: start each line with an `*` , a `-`, or a `
 ##### Bold
 To make text appear **bold** wrap the text with `**` on each side
   * Example - `**this will appear bold**` --> **this will appear bold**
-  
+
+
 ##### Italic
 To italicize *text* wrap the text with a single `*` on each side
   * Example - `*this will appear italicized*`--> *this will appear italicized*
