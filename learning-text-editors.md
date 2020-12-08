@@ -36,3 +36,21 @@ Examples:
 |pre-installed | many are free to download | many free, some cost|
 |no special features|different ones come with different features|loaded with features|
 |text editor only | text editor only | text editor, file manager, compiler, debugger|
+
+
+
+
+# Terminal // Command Line
+
+## Definition:
+text based interface to the system
+
+### Layout
+ + Line 1: prompt then a command followed by arguments
+ + Lines 2 - 5: output from running the command
+ + Line 6: new prompt
+
+
+Opening a terminal on a Mac - **Applications --> Utilities**
+
+[Terminal Commands Cheatsheet for mac](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
