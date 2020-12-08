@@ -31,7 +31,7 @@ Examples:
     
       
       
-|**Basic Text Editor | Coding Text Editor | IDE**|
+|**Basic Text Editor** | **Coding Text Editor** | **IDEs**|
 |-------------------|-----------------------|-------------|
 |pre-installed | many are free to download | many free, some cost|
 |no special features|different ones come with different features|loaded with features|
