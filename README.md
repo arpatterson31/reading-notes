@@ -1,7 +1,8 @@
 # My Coding Journey 
 [About Me](https://arpatterson31.github.io/reading-notes/about-me)
-`
-`
+
+
+
 ## Growth MindSet
 Having a *Growth Mindset*, especially during my journey with Code Fellows, is going to help me achieve my career in software development. Having this mindset will help me to believe that my coding skills can be developed through hard work, persistence, and learning through my mistakes. 
 
