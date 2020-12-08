@@ -1,3 +1,7 @@
+layout: page
+title: "learning-markdown"
+permalink: /reading-notes/learning-markdown/
+
 # Learning Library
 
 
