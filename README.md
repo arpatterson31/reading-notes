@@ -12,3 +12,9 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
  - **YOU GOT THIS!**
 
 ![Growth Mindset](https://www.mvisd.com/cms/lib/TX02216263/Centricity/Domain/1042/brain-teasers-compressor.png)
+
+
+[Learning Library](https://arpatterson31.github.io/reading-notes/learning-library)
+
+
+[About Me](https://arpatterson31.github.io/reading-notes/about-me)
