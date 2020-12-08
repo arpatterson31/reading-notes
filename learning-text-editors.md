@@ -3,16 +3,16 @@
 There are many out there -- just choose the one that's right for you
 
 ### Important Features for a good Text Editor
- + Code Completion
-  + displays suggestions based on what you start typing
-  + saves time
-  + helps prevents typos
- + Syntax Highlighting
-  + Uses color to help read text and find errors
- + A Good Selection of Extensions
++ Code Completion
+   + displays suggestions based on what you start typing
+   + saves time
+   + helps prevents typos
++ Syntax Highlighting
+   + Uses color to help read text and find errors
++ A Good Selection of Extensions
   + add functionality when you need it
 
-Text Editor Options  
+**Text Editor Options** 
 Most are free and can be downloaded from the web
 Examples:
  + Notepad++ (Windows Only)
