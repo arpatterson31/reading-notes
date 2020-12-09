@@ -52,6 +52,8 @@ Examples:
 ## Definition:
 text based interface to the system
 
+It can do what your file explorer can only faster!
+
 ### Layout
  + Line 1: prompt then a command followed by arguments
  + Lines 2 - 5: output from running the command
