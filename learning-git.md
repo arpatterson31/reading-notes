@@ -12,3 +12,9 @@ Files in Git fall under 3 main states:
 + Committed - data is stored to database
 + Modified - changed but not committed
 + Staged - flagged to be committed in next round
+
+
+|**commands** | **action** | 
+|-------------------|-----------------------|
+|`git config --list` | check settings |
+|`git help command` `git command --help` `man git-command`|getting help|
