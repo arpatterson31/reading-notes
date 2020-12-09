@@ -1,4 +1,8 @@
-# Text Editors
+## Table of Content
+[Text Editor](#text-editors)
+
+
+## Text Editors
 > Software that allows you to write and manage text
 There are many out there -- just choose the one that's right for you
 
