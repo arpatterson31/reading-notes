@@ -1,6 +1,6 @@
 #### Table of Content
 [Git](#git)    
-[Importing](#importing)
+[Importing](#importing)   
 [Cloning](#cloning)    
 [Committing](#committing-a-file)  
 [Command Key](#command-key)   
