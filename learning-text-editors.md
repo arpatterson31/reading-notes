@@ -1,6 +1,6 @@
 ## Table of Content
 [Text Editor](#text-editors)
-[Terminal](#terminal]
+[Terminal](#terminal)
 
 
 ## Text Editors
