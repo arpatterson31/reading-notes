@@ -30,14 +30,15 @@ Files in Git fall under 3 main states:
 1. `$ git clone https://github.com/test mydirectory` - clone repo into a directory with another name
 
 ### Committing a File
-+ `$ git commit -m "made change blah blah blah"
++ `$ git commit -m "made change blah blah blah"`
++ `$ git commit -a` - commits all changes
 
 
-
-### Commands
+### Command Key
 |**commands** | **action** | 
 |-------------------|-----------------------|
 |`git config --list` | check settings |
 |`git help command` `git command --help` `man git-command`|getting help|
 |`git status` |file state|
 |`$ git commit -m "made change x,y,z"`| commits file|
+|`$ git commit -a`|commits all changes|
