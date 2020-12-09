@@ -1,6 +1,6 @@
 ## Table of Content
-[Text Editor](#text-editors)
-[Terminal](#terminal-//-command-line)
+[Text Editor](#text-editors). 
+[Terminal](#terminal-command-line)
 
 
 ## Text Editors
