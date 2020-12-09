@@ -53,5 +53,7 @@ Files in Git fall under 3 main states:
 |`$ git commit -a`|commits all changes|
 
 
+
+
 ##### Helpful Resources
 [Git & GitHub Video Tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk)
