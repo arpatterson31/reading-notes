@@ -60,6 +60,6 @@ It can do what your file explorer can only faster!
  + Line 6: new prompt
 
 
-Opening a terminal on a Mac - **Applications --> Utilities**
+Opening a terminal on a Mac - **Spotlight Search --> Terminal**
 
 [Terminal Commands Cheatsheet for mac](https://www.makeuseof.com/tag/mac-terminal-commands-cheat-sheet/)
