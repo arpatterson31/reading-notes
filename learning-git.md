@@ -1,5 +1,11 @@
-#### Table of Contents
-
+#### Table of Content
+[Git](#git)    
+[Importing](#importing)
+[Cloning](#cloning)    
+[Committing](#committing-a-file)  
+[Command Key](#command-key)   
+   
+   
 
 # Git
 What is Git?  
