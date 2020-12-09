@@ -44,13 +44,14 @@ Files in Git fall under 3 main states:
 
 
 ### Command Key
+
 |**commands** | **action** | 
 |-------------------|-----------------------|
 |`git config --list` | check settings |
-|`git help command` `git command --help` `man git-command`|getting help|
-|`git status` |file state|
-|`$ git commit -m "made change x,y,z"`| commits file|
-|`$ git commit -a`|commits all changes|
+|`git help command` `git command --help` `man git-command`| getting help |
+|`git status` | file state |
+|`$ git commit -m "made change x,y,z"`| commits file |
+|`$ git commit -a`| commits all changes |
 
 
 
