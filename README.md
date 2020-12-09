@@ -18,7 +18,7 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
 
 ### Learning Library
 [Markdown](learning-markdown.md)  
-[Text Editors](learning-text-editors-terminal.md)
+[Text Editors and Terminal](learning-text-editors-terminal.md)
 
 
 
