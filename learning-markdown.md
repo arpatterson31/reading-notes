@@ -34,6 +34,7 @@ Start by adding the exclamation mark `!` then include text in brackets `[]`, the
 
 #### Linking pages
 Start with adding text in brackets `[]`, then including the url in parentheses `()`. 
+Linking to an existing repo page - `[]`, then include name of page in parenteses `()`.
 
 ###### Helpful resources
  + [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
