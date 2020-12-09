@@ -1,3 +1,6 @@
+#### Table of Contents
+
+
 # Git
 What is Git?  
 *Git is a distributed version-control system that tracks changes, or commits, in files used by coders during software development.*  
@@ -42,3 +45,7 @@ Files in Git fall under 3 main states:
 |`git status` |file state|
 |`$ git commit -m "made change x,y,z"`| commits file|
 |`$ git commit -a`|commits all changes|
+
+
+##### Helpful Resources
+[Git & GitHub Video Tutorial](https://www.youtube.com/watch?v=RGOj5yH7evk)
