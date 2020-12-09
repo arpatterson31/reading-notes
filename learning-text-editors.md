@@ -1,6 +1,5 @@
 ## Table of Content
-[Text Editor](#text-editors). 
-[Terminal](#terminal-command-line)
+[Text Editor](#text-editors)
 
 
 ## Text Editors
@@ -45,7 +44,7 @@ Examples:
 
 
 
-# Terminal // Command Line
+# Terminal Command Line
 
 ## Definition:
 text based interface to the system
