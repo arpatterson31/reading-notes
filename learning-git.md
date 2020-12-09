@@ -20,9 +20,9 @@ Files in Git fall under 3 main states:
 1. `$ cd test (cd = change directory)` - Switch to target project directory
 1. `$ git init` - creates a new subdir named .git that has the repo files - no tracking at this point
 1. to start tracking
-  + `$ git add *.c`
-  + `$ git add LICENSE`
-  + `$ git commit -m "any message here"`  
+   + `$ git add *.c`
+   + `$ git add LICENSE`
+   + `$ git commit -m "any message here"`  
 
 
 ### Cloning
