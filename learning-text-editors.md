@@ -1,5 +1,6 @@
 ## Table of Content
 [Text Editors](#text-editors)
+
 [Terminal](#terminal-command-line)
 
 
