@@ -6,6 +6,10 @@
 [Text Editors and Terminal](learning-text-editors-terminal.md)   
 [Git](learning-git.md)  
 
+### This is me   
+
+Hi, my name is Audrey! I am from a small town in Michigan, but moved to Seattle when I graduated high school.  In 2018 I became a mother to a crazy little girl who is my world.  I love all things cats, tattoos, and celebrities!
+
 
 
 ## Growth MindSet
