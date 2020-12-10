@@ -1,6 +1,11 @@
 # My Coding Journey 
 [About Me](about-me.md)
 
+### Learning Library
+[Markdown](learning-markdown.md)  
+[Text Editors and Terminal](learning-text-editors-terminal.md)   
+[Git](learning-git.md)  
+
 
 
 ## Growth MindSet
@@ -16,10 +21,7 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
 ![Growth Mindset](https://www.mvisd.com/cms/lib/TX02216263/Centricity/Domain/1042/brain-teasers-compressor.png)
 
 
-### Learning Library
-[Markdown](learning-markdown.md)  
-[Text Editors and Terminal](learning-text-editors-terminal.md)   
-[Git](learning-git.md)
+
 
 
 
