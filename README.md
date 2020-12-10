@@ -1,5 +1,5 @@
 # My Coding Journey 
-[About Me](about-me.md)
+
 
 ### Learning Library
 [Markdown](learning-markdown.md)  
