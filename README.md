@@ -1,7 +1,8 @@
-# My Coding Journey 
+# My Code 102 Journey   
 
 
-### Learning Library
+
+## Learning Library
 [Markdown](learning-markdown.md)  
 [Text Editors and Terminal](learning-text-editors-terminal.md)   
 [Git](learning-git.md)  
