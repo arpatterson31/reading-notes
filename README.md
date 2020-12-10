@@ -3,7 +3,7 @@
 
 
 
-#### Learning Library
+#### Topics I'm Learning
 [Markdown](learning-markdown.md)  
 [Text Editors and Terminal](learning-text-editors-terminal.md)   
 [Git](learning-git.md)  
