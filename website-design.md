@@ -18,4 +18,15 @@
    - focus is on what info needs to be there and the layout
  - Online wireframe tools: gomockingbird.com  lovelycharts.com
 
- 
+
+## Conveying your point with design
+
+ - Content 
+ - Prioritizing
+   - visual hierarchy - the order our eyes see things  -- higher contrast are processed first
+ - Organizing
+   - Grouping - examples: color, proximity, use of borders
+   - Similarity - consistency, headings
+
+
+
