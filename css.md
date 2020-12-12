@@ -15,5 +15,9 @@ Example of how CSS looks:
 
 
 ### External CSS & Internal CSS
+ - External is linked using ``` <link href="css/style.css" type="text/css" rel="stylesheet">```
+ - Internal is using ``` <style> hmtl tag ```
 
+
+ 
 
