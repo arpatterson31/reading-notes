@@ -8,3 +8,7 @@ CSS adds style!
    - declaration - how it will be styled -- font, color, size
      - declarations are broken out into a property and a value
         - the property is the name of the style -- font, color, size
+
+Example of how CSS looks:
+``` p {
+        color: red;}```
