@@ -11,4 +11,9 @@ CSS adds style!
 
 Example of how CSS looks:
 ``` p {```   
-            ```color: red;}```
+            ```color: red;}```    
+
+
+### External CSS & Internal CSS
+
+
