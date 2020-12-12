@@ -10,5 +10,5 @@ CSS adds style!
         - the property is the name of the style -- font, color, size
 
 Example of how CSS looks:
-``` p {```
-        ```color: red;}```
+``` p {```   
+            ```color: red;}```
