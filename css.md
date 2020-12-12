@@ -28,5 +28,9 @@ Example of how CSS looks:
 Ways to specify color
     - RGB Values -- red, green, blue - expressed as numbers between 0 and 255 : ``` rgb(123,123,123) ```
     - HEX Codes -- red, green, blue - hexadecimal code : ``` #87cdae ```
-    - Color Name
+    - Color Name  
+Contrast is key
+CSS3 introduces opacity and hue, saturation, lightness values 
+
+
 
