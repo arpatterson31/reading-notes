@@ -9,6 +9,8 @@ CSS adds style!
      - declarations are broken out into a property and a value
         - the property is the name of the style -- font, color, size
 
+** Selectors - many kinds - can help to target specific elements to style
+
 Example of how CSS looks:
 ``` p {```   
             ```color: red;}```    
