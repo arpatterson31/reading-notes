@@ -11,6 +11,7 @@
 [Website Design](website-design.md)    
 [HTML](html.md)   
 [CSS](css.md)   
+[Dynamic Javascript](dynamic-javascript.md)     
 
 
 
