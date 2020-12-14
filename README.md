@@ -13,6 +13,9 @@
 [CSS](css.md)   
 [Dynamic Javascript](dynamic-javascript.md)     
 [How Computers Work](how-computers-work.md)    
+[Programming Javascript](programming-javascript.md)     
+
+
 
 
 
