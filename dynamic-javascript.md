@@ -19,3 +19,17 @@
 - value of the variable is what information you would like it to store for you 
     -  ``` = ``` means assign in javascript
 
+
+## Data types
+
+- Numbers
+    - numbers 0-9 including decimals, and negitives
+- String 
+    - letters and other characters
+    - must be contained in single or double quotes... don't mix!
+- Boolean 
+    - True -- on or 1
+    - False -- off or 0
+
+
+
