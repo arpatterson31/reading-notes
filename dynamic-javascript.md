@@ -15,4 +15,7 @@
 ## Variables
 
 - Stored information from the statements are called variables
-- 
+- variables can only be used once you declare them or give them a name: ``` var variableName ```
+- value of the variable is what information you would like it to store for you 
+    -  ``` = ``` means assign in javascript
+
