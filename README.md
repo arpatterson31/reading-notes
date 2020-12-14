@@ -12,6 +12,7 @@
 [HTML](html.md)   
 [CSS](css.md)   
 [Dynamic Javascript](dynamic-javascript.md)     
+[How Computers Work](how-computers-work.md)    
 
 
 
