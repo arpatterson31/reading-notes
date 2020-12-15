@@ -41,3 +41,9 @@
 - logical
 
 
+**Vocab:** Function
+
+*lets you group a series of statement together to perform a specific task*
+
+- declare a function by giving it a name and then write statements in curly brackets
+- after declaring function you can execute all statements with just one line of code -- calling the function
