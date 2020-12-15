@@ -20,3 +20,12 @@
 
 **Computers solve problems programmatically; they follow series of instructions one after another** 
 
+**Vocab:** Expression
+
+*evaluates into (results in) a single value.*
+
+- 2 types of expressions
+    - just assigns a value to a variable - var color = 'red';
+    - uses 2 or more values to return a value - var area = 3 * 2;
+
+
