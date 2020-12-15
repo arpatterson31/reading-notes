@@ -29,3 +29,15 @@
     - uses 2 or more values to return a value - var area = 3 * 2;
 
 
+**Vocab:** Operator
+
+*create a single value from one or more values.*
+
+### Operators
+- assignment
+- arithmetic
+- string
+- comparison
+- logical
+
+
