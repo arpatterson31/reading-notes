@@ -15,3 +15,14 @@
 |`<`| less than|  5 < 2 - false; 2 < 5 - true| 
 |`>=`| greater than or equal to | |
 |`<=`| less than or equal to| |
+
+
+## Logical Operators
+- allows you to compare results of more than one comparison operator
+
+``` && ``` - logical and 
+``` || ``` - logical or
+``` ! ``` - logical not - single boolean value and inverts it
+
+
+
