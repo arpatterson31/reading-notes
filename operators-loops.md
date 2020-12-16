@@ -26,3 +26,18 @@
 
 
 
+# Loops
+Check conditions 
+
+If true - code will run and continue in a loop until false returned
+
+### Types of loops
+-For - used if you need it to run for a specific number of times
+
+- create variable then set it to 0
+- set condition or how many times you need it to run;  i < 10
+- update - i++ adds one to the counter every time loop runs
+
+
+- While - if you don't know how many times it needs to run
+    - while (i < 10) -- will run as long as the condition in the parentheses is true
