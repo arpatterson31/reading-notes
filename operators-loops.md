@@ -13,8 +13,8 @@
 |`!==`| strict not equal to| 'two' !== 2 - true; 2 !== 2 - false |
 |`>`| greater than | 5 > 2 - true; 2 > 5 - false| 
 |`<`| less than|  5 < 2 - false; 2 < 5 - true| 
-|`>=`| greater than or equal to | |
-|`<=`| less than or equal to| |
+|`>=`| greater than or equal to | 5 >= 2 - true; 5 >= 5 - true; 2 >= 5 - false|
+|`<=`| less than or equal to| 5 <= 2 - false; 5 <= 2 - false; 2 <= 5 - true|
 
 
 ## Logical Operators
