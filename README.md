@@ -3,7 +3,7 @@
 
 
 
-## Code 102 Topics
+## Code 102 Reading Notes
 [Markdown](learning-markdown.md)  
 [Text Editors and Terminal](learning-text-editors-terminal.md)   
 [Git](learning-git.md)  
@@ -18,7 +18,7 @@
 
 
 
-## Code 201 Topics
+## Code 201 Reading Notes
 
 
  
