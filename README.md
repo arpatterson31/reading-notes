@@ -1,9 +1,9 @@
-# My Code 102 Journey    
+# My Code Fellows Journey    
 
 
 
 
-## Topics I'm Learning
+## Code 102 Topics
 [Markdown](learning-markdown.md)  
 [Text Editors and Terminal](learning-text-editors-terminal.md)   
 [Git](learning-git.md)  
@@ -14,7 +14,11 @@
 [Dynamic Javascript](dynamic-javascript.md)     
 [How Computers Work](how-computers-work.md)    
 [Programming Javascript](programming-javascript.md)   
-[Operators & Loops](operators-loops.md)   
+[Operators & Loops](operators-loops.md) 
+
+
+
+## Code 201 Topics
 
 
  
