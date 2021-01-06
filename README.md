@@ -1,4 +1,22 @@
-# My Code Fellows Journey    
+# My Code Fellows Reading Notes Repo
+
+
+## Code 201 Reading Notes
+- Reading Assignment 1
+- Reading Assignment 2
+- Reading Assignment 3
+- Reading Assignment 4
+- Reading Assignment 5
+- Reading Assignment 6
+- Reading Assignment 7
+- Reading Assignment 8
+- Reading Assignment 9
+- Reading Assignment 10
+- Reading Assignment 11
+- Reading Assignment 12
+- Reading Assignment 13
+- Reading Assignment 14
+- Reading Assignment 15
 
 
 
@@ -14,16 +32,8 @@
 [Dynamic Javascript](dynamic-javascript.md)     
 [How Computers Work](how-computers-work.md)    
 [Programming Javascript](programming-javascript.md)   
-[Operators & Loops](operators-loops.md) 
-
-
-
-## Code 201 Reading Notes
-
-
+[Operators & Loops](operators-loops.md)
  
-
-
 
 
 ### This is me   
