@@ -13,3 +13,13 @@
     - head contains the title 
     - body will contain anything in the body of the web page like the header, main
 - You can view a pages HTML by viewing the page source
+- Several versions of HTML out there -- makes sure to declare DOCTYPE so browser knows which version of HTML is being used
+
+### Extra Markup
+- ID attribute can be used to identify an element from other elements on the page
+- Class attribute can identify several elements from other elements
+
+- Block elements - start on a new line
+    - examples are headers, paragraphs, lists and lists items
+- Inline elements - continue on same line as neighboring elements
+    - examples are image tags, bolding, etc
