@@ -41,6 +41,11 @@
     - could think of this in a flowchart or a list of steps
 
 
+- JavaScript files are created as a .js file
+- Can be written in html but should have own file 
+- use ```<script src=></script>``` to link
+
+
 **Computers solve problems programmatically; they follow series of instructions one after another**
 - Computers need data to follow the instructions you give it to carry out the task
 
