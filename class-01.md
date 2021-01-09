@@ -30,3 +30,7 @@
 - new elements introduced to help simplify layout
     - header, nav, article, footer are some examples
     - no longer need to used id in div's for these elements
+
+
+### ABC of Programming - JS Chapter 1
+- 
