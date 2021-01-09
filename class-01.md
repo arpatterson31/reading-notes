@@ -42,3 +42,9 @@
 
 
 **Computers solve problems programmatically; they follow series of instructions one after another**
+- Computers need data to follow the instructions you give it to carry out the task
+- data types
+    - objects - a physical thing in the world that can be represented
+    - properties - characteristics - like name or value
+    - events - used to trigger different types of functionality 
+    - method - how people or other things interact with the object 
