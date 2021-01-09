@@ -18,8 +18,10 @@
 ### Extra Markup
 - ID attribute can be used to identify an element from other elements on the page
 - Class attribute can identify several elements from other elements
-
 - Block elements - start on a new line
     - examples are headers, paragraphs, lists and lists items
 - Inline elements - continue on same line as neighboring elements
     - examples are image tags, bolding, etc
+- iframe - window within a window - maps are good examples of using this feature
+- Escape characters allows you to use symbols that are reserved by HTML on your page
+
