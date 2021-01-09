@@ -33,4 +33,12 @@
 
 
 ### ABC of Programming - JS Chapter 1
-- 
+- **Vocab:** Script
+
+*a script is a series of instruction a computer can follow to achieve a goal*
+
+- to write a script - State a goal then list tasks to complete
+    - could think of this in a flowchart or a list of steps
+
+
+**Computers solve problems programmatically; they follow series of instructions one after another**
