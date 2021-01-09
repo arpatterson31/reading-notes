@@ -25,3 +25,8 @@
 - iframe - window within a window - maps are good examples of using this feature
 - Escape characters allows you to use symbols that are reserved by HTML on your page
 
+
+### HTML5 Layout
+- new elements introduced to help simplify layout
+    - header, nav, article, footer are some examples
+    - no longer need to used id in div's for these elements
