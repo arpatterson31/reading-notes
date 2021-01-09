@@ -56,5 +56,3 @@
     - properties - characteristics - like name or value
     - events - used to trigger different types of functionality 
     - method - how people or other things interact with the object 
-
-- 
