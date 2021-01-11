@@ -5,6 +5,7 @@
 **Tags or markup provide meaning and provides structure to the page for browsers to read** 
 
 ### Structural Tags 
+
 |**Tag** | **Name** | **Additional notes on use** |
 |-------------------|-----------------------|---------------|
 | `<h1>` `<h2>` | headings | there are 6 levels of headings in HTML |
@@ -18,6 +19,7 @@
 
 
 ### Semantic Tags - does not affect the structure but adds extra info to pages
+
 |**Tag** | **Name** | **Additional notes on use** |
 |-------------------|-----------------------|---------------|
 | `<strong>` | strong | indicates that content is strong importance |
