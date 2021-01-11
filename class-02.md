@@ -78,6 +78,11 @@ Example of how CSS looks:
 | Operators | helps create a single value from one or more | see detailed operator explaination below |
 
 
+### Arrays
+- Values assigned in an array are enclosed in square brackets `[]`
+- Values in an array are also given an number called an index - index values start at 0
+
+
 ### Operators
 - Assignment Operators - assign value to variable using ` = `
 - Arithmetic Operators - preform basic math 
