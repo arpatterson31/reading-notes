@@ -71,8 +71,16 @@ Example of how CSS looks:
 |**Vocab Term** | **Definition** | **Additional Info** |
 |-------------------|-----------------------|---------------|
 | statement | individual step in the script | Always end with a `;` |
-| comment | use comments to explain your code | single line comment use `//` multi-line use `/* comment */` |
+| comment | use comments to explain your code | single line comment use: `//` multi-line use: `/* comment */` |
 | Variables | stored information from the statement | declare a variable by using ` var variableName` |
 | Array | special type of variable - stores a list of values | declare by using var then name of array |
 | Expressions | results in single value | expressions can just assign a value to a variable  or use 2 or more values to return single value |
 | Operators | helps create a single value from one or more | see detailed operator explaination below |
+
+
+### Operators
+- Assignment Operators - assign value to variable using ` = `
+- Arithmetic Operators - preform basic math 
+- String Operators - combine 2 or more strings using ` + `
+- Comparison Operators - compare 2 values to return true or false
+- Logical operators - combine expresions and return true or false 
