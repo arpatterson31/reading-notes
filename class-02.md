@@ -31,3 +31,37 @@
 |`<ins>`| insterted | content has been inserted into a document |
 |`<del>`| deleted | content has been deleted from document |
 |`<s>`| strike-out | content is no longer accurate or relevant but should not be deleted |
+
+
+## CSS Intro
+
+**CSS styles elements and tell the page how they should appear**
+
+**CSS 
+
+- Contains 2 parts
+   - selector or the element -- like h1, p, body
+   - declaration - how it will be styled -- font, color, size
+     - declarations are broken out into a property and a value
+        - the property is the name of the style -- font, color, size
+
+Example of how CSS looks:
+``` h1 {```   
+            ```color: red;}```    
+
+### External CSS & Internal CSS
+ - External is linked using ``` <link href="css/style.css" type="text/css" rel="stylesheet">```
+    - Advantage: less code and smaller html pages, all pages can share the same stylesheet - preferred
+ - Internal is using ``` <style> ``` html tag 
+    - Advantage: everything is in one place, could work best when creating only page 
+
+
+**Selectors - many kinds - can help to target specific elements to style**
+
+|**Selector** | **Meaning** | **How to write it** |
+|-------------------|-----------------------|---------------|
+| Universal | applies to all elements | `* {}` |
+| Type | matches element names | `p {}` `h1, h2, h3 {}` |
+| Class | matches to a class attribute | `.className {}` |
+| ID | matches to an ID attribute | `#IDName {}` |
+
