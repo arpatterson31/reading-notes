@@ -1,0 +1,1 @@
+# Class 2 Read Notes - HTML Text, CSS Intro, and Basic JavaScript Instructions
