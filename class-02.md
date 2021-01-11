@@ -92,7 +92,7 @@ Example of how CSS looks:
 
 ## Decisions and loops
 
-## Comparison
+### Comparison
 - comparing value to what you expect to be true
 - Result will be boolean: true or false
 
@@ -107,3 +107,10 @@ Example of how CSS looks:
 |`<`| less than|  5 < 2 - false; 2 < 5 - true| 
 |`>=`| greater than or equal to | 5 >= 2 - true; 5 >= 5 - true; 2 >= 5 - false|
 |`<=`| less than or equal to| 5 <= 2 - false; 5 <= 2 - false; 2 <= 5 - true|
+
+### Logical Operators
+- allows you to compare results of more than one comparison operator
+
+``` && ``` - logical and 
+``` || ``` - logical or
+``` ! ``` - logical not - single boolean value and inverts it
