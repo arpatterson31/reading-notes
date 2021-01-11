@@ -37,8 +37,6 @@
 
 **CSS styles elements and tell the page how they should appear**
 
-**CSS 
-
 - Contains 2 parts
    - selector or the element -- like h1, p, body
    - declaration - how it will be styled -- font, color, size
@@ -65,3 +63,14 @@ Example of how CSS looks:
 | Class | matches to a class attribute | `.className {}` |
 | ID | matches to an ID attribute | `#IDName {}` |
 
+
+## Basic JavaScript Instructions
+
+|**Vocab Term** | **Definition** | **Additional Info** |
+|-------------------|-----------------------|---------------|
+| statement | individual step in the script | Always end with a `;` |
+| comment | use comments to explain your code | single line comment use `//` multi-line use `/* comment */` |
+| Variables | stored information from the statement | declare a variable by using ` var variableName` |
+| Array | special type of variable - stores a list of values | declare by using var then name of array |
+| Expressions | results in single value | expressions can just assign a value to a variable  or use 2 or more values to return single value |
+| Operators | helps create a single value from one or more | see detailed operator explaination below |
