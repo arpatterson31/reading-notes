@@ -114,3 +114,14 @@ Example of how CSS looks:
 ``` && ``` - logical and 
 ``` || ``` - logical or
 ``` ! ``` - logical not - single boolean value and inverts it
+
+### IF statements
+- If statement checks a condition..if the condition is true then it runs the code
+- If statements are written as follows:
+
+`if (condition) {
+    code to execute();
+}` 
+
+### IF...ELSE statements
+- runs code if the first condition is false
