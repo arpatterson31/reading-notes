@@ -7,7 +7,7 @@
 
 ## Code 201 Reading Notes
 - [Reading Assignment 1](class-01.md)
-- Reading Assignment 2
+- [Reading Assignment 2](class-02.md)
 - Reading Assignment 3
 - Reading Assignment 4
 - Reading Assignment 5
