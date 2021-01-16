@@ -59,3 +59,12 @@ Style Elements for border
 
 ### Switch Statements
 
+Switch statements starts with a variable called the **switch value**
+
+There are cases that will run code if the variable matches that value
+
+Example given in book: present user with a different message depending on which level they are on
+  - the value of the variable for level will determine which code case will run
+
+Switch statements are written out in one code block (curly braces) -- colon separates the cases -- break; is added to tell javascript to go to the next code
+
