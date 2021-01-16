@@ -21,3 +21,21 @@ Types of Lists
 | `<dt>` | definition term | used to contain the term being defined | 
 | `<dd>` | definition | contains the definition in a definition list | 
 
+
+## Boxes
+
+HTML elements live in their own box per CSS
+
+### Controlling Dimensions
+
+- Height & Width
+  - can be specified using pixels, percentages, and ems(based on the size of text)
+  - min-width; max-width (specifies the smallest or largest the width of a box can be)
+  - min-height; max-height
+
+**Border** - every box has one!
+
+**Margin** - sit outside the edge of the border
+
+**Padding** - space between the border of the box and content within it
+
