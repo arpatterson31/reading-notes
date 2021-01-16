@@ -53,3 +53,9 @@ Style Elements for border
 - border-image
 - box-shadow
 - border-radius for rounded corners or elliptical shapes
+
+
+## JS Notes - Decision and Loops
+
+### Switch Statements
+
