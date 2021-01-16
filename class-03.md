@@ -68,3 +68,39 @@ Example given in book: present user with a different message depending on which 
 
 Switch statements are written out in one code block (curly braces) -- colon separates the cases -- break; is added to tell javascript to go to the next code
 
+### Truthy 
+
+Values that are treated as if they are true
+
+### Falsy
+
+Values that are treated as if they are false
+
+### Loops 
+
+Check conditions 
+
+If true - code will run and continue in a loop until false returned
+
+## Types of loops
+
+**For**
+
+Used if you need it to run for a specific number of times
+
+- create variable then set it to 0
+- set condition or how many times you need it to run;  i < 10
+- update - i++ adds one to the counter every time loop runs
+
+
+**While**
+
+Used if you don't know how many times it needs to run
+
+- while (i < 10) -- will run as long as the condition in the parentheses is true
+
+**Do While**
+
+Statement comes before the condition 
+
+- statements are run once whether or not the condition is met
