@@ -33,9 +33,23 @@ HTML elements live in their own box per CSS
   - min-width; max-width (specifies the smallest or largest the width of a box can be)
   - min-height; max-height
 
-**Border** - every box has one!
+### **Border** - every box has one!
 
-**Margin** - sit outside the edge of the border
+Style Elements for border
 
-**Padding** - space between the border of the box and content within it
+- border-width
+- border-style
+- border-color
 
+
+### **Margin** - sits outside the edge of the border
+
+- margin: auto: sets the box in the middle of the page
+
+### **Padding** - space between the border of the box and content within it
+
+### CSS3
+
+- border-image
+- box-shadow
+- border-radius for rounded corners or elliptical shapes
