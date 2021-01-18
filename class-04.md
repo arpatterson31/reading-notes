@@ -21,3 +21,7 @@ How to write links:
 - Email Links: `<a href="mailto:name@example.com">EMAIL</a>`
 - Open new window: `<a href="www.url.com" target="_blank">TEXT</a>`
 
+## Layout
+
+### Core Concepts
+
