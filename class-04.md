@@ -5,7 +5,8 @@
 **Links** allow you to move from one page/place to another - browsing the web
 
 Types of Links
-- One website to another 
+
+- One website to another
 - from one page to another on the same website
 - from one part of the page to another but on the same page
 - ones that open into a new browser window
@@ -21,7 +22,27 @@ How to write links:
 - Email Links: `<a href="mailto:name@example.com">EMAIL</a>`
 - Open new window: `<a href="www.url.com" target="_blank">TEXT</a>`
 
+
 ## Layout
 
 ### Core Concepts
+
+CSS treats each HTML element like it's in its own box
+
+Boxes will either be **block-level** or **inline**
+
+
+**Block-Level**
+start on a new line and act as main building block of layout
+examples of block-level: `<h1>` or `<p>` or `<li>`
+
+
+**Inline**
+these boxes flow between surrounding text
+examples of inline: `<b>` or `<img>` or `<i>`
+
+
+If block-level elements sit in another block element you can group them together using a `<div>` tag
+
+
 
