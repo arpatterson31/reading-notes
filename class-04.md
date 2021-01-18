@@ -94,5 +94,6 @@ function getArea(width, height){
 
 You can get single values out of a function or multiple
 
-## Reasons for Pair Programming
+## Pair Programming
 
+2 heads are better than one!
