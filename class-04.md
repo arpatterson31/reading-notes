@@ -45,4 +45,17 @@ examples of inline: `<b>` or `<img>` or `<i>`
 If block-level elements sit in another block element you can group them together using a `<div>` tag
 
 
+### CSS Positioning Schemes
+
+- Normal Flow
+  - every block appears on the same line
+- Relative Positioning
+  - shifts element to Top, Left, Right, or bottom of where it was originally placed
+- Absolute Positioning
+  - positions the element in relation to its containing element
+- Fixed Positioning
+  - positions the element in relation to the browser window
+- Floating Elements
+  - takes it out of its normal position and moves it to the far right or far left
+
 
