@@ -78,7 +78,7 @@ function sayHello(){
 
 `sayHello();`
 
-### Fuctions that need info
+### Functions that need info
 
 Some functions need info to perform its task. In those cases you would give it parameters(act like variables).
 
@@ -93,4 +93,6 @@ function getArea(width, height){
 
 
 You can get single values out of a function or multiple
+
+## Reasons for Pair Programming
 
