@@ -61,3 +61,19 @@ If block-level elements sit in another block element you can group them together
 
 
 ## Functions, Methods, and Objects
+
+
+### Functions
+*lets you group a series of statement together to perform a specific task*
+
+- declare a function by giving it a name and then write statements in curly brackets
+
+`
+function sayHello(){
+  console.log('Hello!');
+}
+`
+
+- after declaring function you can execute all statements with just one line of code -- calling the function
+
+`sayHello();`
