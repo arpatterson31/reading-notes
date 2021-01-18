@@ -77,3 +77,20 @@ function sayHello(){
 - after declaring function you can execute all statements with just one line of code -- calling the function
 
 `sayHello();`
+
+### Fuctions that need info
+
+Some functions need info to perform its task. In those cases you would give it parameters(act like variables).
+
+`
+function getArea(width, height){
+  return width * height;
+}
+`
+*width and height in parentheses are the parameters* 
+
+`getArea(3,5);`
+
+
+You can get single values out of a function or multiple
+
