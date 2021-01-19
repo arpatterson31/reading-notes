@@ -97,3 +97,20 @@ You can get single values out of a function or multiple
 ## Pair Programming
 
 2 heads are better than one!
+
+Involves 2 roles:
+
+- Driver - the one that does all the typing and writing the code
+- Navigator - guides driver with thinking of the big picture, what should happen, scans for typos, and does researching and looks up solutions.
+
+
+Huge perk on pair programming is that builds skills on explaining code out loud, listening to others' guidance, reading code others have written, and writing code themselves. 
+
+other perks:
+
+- Greater efficiency
+- more engaging collab
+- the ability to learn from fellow students
+- improves on your social skills
+- helps prepare you for job interviews
+- prepares you for the real world and the work environment
