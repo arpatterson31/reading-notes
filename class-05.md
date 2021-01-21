@@ -42,3 +42,16 @@ HTML5: Figure and Figure Caption
 Types of images:
 - JPEG - use when you have many different colors in a picture
 - GIF or PNG - use when you have images with few colors or large areas of the same color
+
+
+## CSS Color
+
+Ways to specify color
+- RGB Values -- red, green, blue - expressed as numbers between 0 and 255 : `rgb(123,123,123)`
+- HEX Codes -- red, green, blue - hexadecimal code : `#87cdae`
+- Color Name 
+
+
+Hue - a color or shade
+Saturation - the amount of gray in the color - max would be no gray
+Brightness - how much black is in the color - max would be no black
