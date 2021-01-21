@@ -19,4 +19,26 @@ Adding an image:
 - `src` tells the browser where the file is located
 - `alt` provides a text description
 - `title` provides additional information about the image
+- `width` & `height` can be added to size images in pixels
 
+example:
+
+`<img src="images/image.jpg" alt="This is a picture"/>`
+
+
+HTML5: Figure and Figure Caption
+
+- `<figure>` element to contain images and their caption
+- `<figcaption>` allows a caption to be tied to an image
+
+
+### Rules for creating images
+
+- Save images in the right format
+- Save images at the right size
+- Measure images in pixels
+
+
+Types of images:
+- JPEG - use when you have many different colors in a picture
+- GIF or PNG - use when you have images with few colors or large areas of the same color
