@@ -59,3 +59,28 @@ Brightness - how much black is in the color - max would be no black
 
 ## CSS Text 
 
+TYPEFACE TERMINOLOGY
+- SERIF - extra details on the end of the letters
+- SANS-SERIF - no details on the end of the letters
+- MONOSPACE - every letter is the same width
+- WEIGHT - adds emphasis and affects the amount of whitespace
+- STYLE - normal, italic
+- STRETCH
+
+
+Specifying typeface
+- font-family
+- font-size
+- font-weight
+- font-style
+- text-decoration
+  - none
+  - underline
+  - overline
+  - line-through
+  - blink
+- text-align
+  - left
+  - right
+  - center
+  - justify
