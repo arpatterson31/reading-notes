@@ -85,3 +85,20 @@ Can loop through NodeList
 - nextSibling
 - firstChild
 - lastChild
+
+### Access & Update a text Node
+- Use nodeValue property
+
+
+## Adding to DOM
+- createElement()
+- createTextNode()
+- appendChild()
+
+## Removing Element from DOM
+- removeEl
+- removeChild()
+
+## Techniques for adding HTML to web page
+- document.write()
+- element.innerHTML
