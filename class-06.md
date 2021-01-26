@@ -68,3 +68,20 @@ Consists of 4 types of nodes:
   - class 
   - tagName
 
+### NodeLists
+*DOM method can return more than one element, it returns a NodeList*
+
+
+Selecting elements from NodeList
+- item()METHOD
+- Array Syntax
+
+Can loop through NodeList
+
+### Traversing the DOM
+
+- parentNode
+- previousSibling
+- nextSibling
+- firstChild
+- lastChild
