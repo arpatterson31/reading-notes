@@ -25,3 +25,8 @@ Objects group variables and functions and give them new names
 
 `var hotelName = object['property name'];`
 `var hotelName = object['method name']();`
+
+
+## Document Object Model
+
+*The Document Object Model specifies how browsers should create a model of an HTML page and how JS can access and update the content of a web page.*
