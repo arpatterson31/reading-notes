@@ -12,18 +12,29 @@ Objects group variables and functions and give them new names
 ### Creating an Object Literal
 
 `// Set up the object`
+
 `var hotel = {`
+
   `name : 'Park',`
+
   `rooms : 120,`
+
   `booked : 77,`
+
   `checkAvailability : function() {`
+
   `  return this.rooms - this.booked; // Need "this" because inside function`
+
  ` }`
+
 `};`
+
+
 
 #### Accessing an object
 
 `var hotelName = object['property name'];`
+
 `var hotelName = object['method name']();`
 
 
