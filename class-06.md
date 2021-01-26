@@ -41,3 +41,30 @@ Objects group variables and functions and give them new names
 ## Document Object Model
 
 *The Document Object Model specifies how browsers should create a model of an HTML page and how JS can access and update the content of a web page.*
+
+
+**DOM tree** is the structure of the model 
+
+Consists of 4 types of nodes:
+- Document 
+- Element 
+- Attribute
+- Text
+
+![DOM tree model example from w3schools:](https://www.w3schools.com/js/pic_htmltree.gif)
+
+
+### Accessing DOM Tree
+
+- Locate the node that represents the element you want to work with
+  - `getElementById()`
+  - `getElementByClassName()`
+  - `parentNode`
+- Use its text content, child elements, and attributes
+
+- Accessing ELEMENTS (these go in parentheses)
+  - id
+  - css selector ('li.nameOfListItem')
+  - class 
+  - tagName
+
