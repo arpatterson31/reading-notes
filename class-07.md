@@ -24,3 +24,19 @@
 | `<thead>` | headings | used to store all headings in the table |
 | `<tbody>` | body | body of table |
 | `<tfoot>` | footer | footer of table - store things like totals of table |
+
+
+## JS & JQ Chapter 3: Functions, Methods, and Objects
+
+
+### Creating an object: constructor notation
+- Use keyword **new** and the object constructor to create a blank object
+- You can add properties and methods to these objects
+
+### Updating an object
+- using dot notation:
+
+call the object name then '.' then the property name then '=' and then the property value
+
+### Creating many objects: constructor notation
+- Use functions as a template with the object's properties and methods
