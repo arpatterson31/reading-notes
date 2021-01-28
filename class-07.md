@@ -64,3 +64,8 @@ Example:
 ` };`
 
 `};` 
+
+
+Using Constructor function:
+
+`let objectName = new ConstructorFunction('value', 'value', 'value');`
