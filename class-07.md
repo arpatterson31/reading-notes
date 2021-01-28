@@ -69,3 +69,31 @@ Example:
 Using Constructor function:
 
 `let objectName = new ConstructorFunction('value', 'value', 'value');`
+
+
+### Arrays and Objects
+
+- Arrays are a special type of object
+- You can combine arrays and objects to create complex data structures: 
+  - Arrays can store a series of objects (and remember their order)
+  - Objects can also hold arrays (as values of their properties)
+
+
+### Built in Objects
+
+Browsers come with a set of built-in objects:
+1. Browser Object Model
+2. Document Object Model (DOM)
+3. Global JavaScript Objects
+
+
+#### Browser Object Model
+- creates a model of the browser tab or window
+
+
+#### Document Object Model
+- creates a model of the current web page
+
+#### Global JavaScript Objects
+- Do not form a single model... group of individual objects that relate to the JavaScript language
+
