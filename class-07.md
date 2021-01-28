@@ -17,3 +17,10 @@
 | `<td colspan="#">` OR `<th colspan="#"` | column span | stretched entries across more than one column. use number to indicate # of columns |
 |  `<td rowspan="#">` OR `<th rowspan="#"` | row span | stretches entries down more than one row. use number to indicate # of rows |
 
+### Long Table Structure
+
+|**Tag** | **Name** | **Additional notes on use** |
+|-------------------|-----------------------|---------------|
+| `<thead>` | headings | used to store all headings in the table |
+| `<tbody>` | body | body of table |
+| `<tfoot>` | footer | footer of table - store things like totals of table |
