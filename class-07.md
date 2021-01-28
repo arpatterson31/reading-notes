@@ -39,4 +39,28 @@
 call the object name then '.' then the property name then '=' and then the property value
 
 ### Creating many objects: constructor notation
-- Use functions as a template with the object's properties and methods
+1. Use functions as a template with the object's properties and methods
+2. Name the function using an uppercase letter - helps remind developers to use the **new** keyword when creating object
+3. Add parameters to function to set the value of a property in the object
+  - methods will be the same for each object created using the function template
+4. Use **this** keyword instead of object name to indicate the property or method belongs to the object that *this* function creates
+  - use `;` instead of `,` like in the object literals
+
+
+Example:
+
+`function Name(param1, param2, param3) {`
+
+` this.param1 = param1;`
+
+` this.param2 = param2;`
+
+` this.param3 = param3;`
+
+` this.methodName = function() {`
+
+`    code the method will execute` 
+
+` };`
+
+`};` 
