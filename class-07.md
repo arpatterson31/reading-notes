@@ -119,3 +119,20 @@ Browsers come with a set of built-in objects:
 | `charAt()` | takes an index number as a parameter and returns the character found at that position | 
 | `indexOf()` | returns index number of the first time a character is found within the string | 
 | `lastIndexOf()` | returns index number of the last time a character is found within the string | 
+
+
+
+#### More Global Objects - math and numbers
+
+|**Method** | **Description** | 
+|-------------------|-----------------------|
+| `isNaN()` | checks if the value is not a number | 
+| `toFixed()` | rounds to specified number of decimal places(returns a string) | 
+| `toPrecision()` | Rounds to total number of places (returns a string) | 
+| `toExponential()` | Returns a string representing the number in exponential notation | 
+| `lastIndexOf()` | returns index number of the last time a character is found within the string |
+| `Math.round()` | Rounds number (up or down) to nearest integer | 
+| `Math.sqrt(n)` | returns square root of positive number | 
+| `Math.ceil()` | Rounds up to the nearest integer | 
+| `Math.floor()` | rounds number down to the nearest integer | 
+| `Math.random()` | generates a random number between 0 and 1 |
