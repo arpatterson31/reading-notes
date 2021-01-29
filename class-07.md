@@ -90,10 +90,32 @@ Browsers come with a set of built-in objects:
 #### Browser Object Model
 - creates a model of the browser tab or window
 
+|**Method** | **Description** | 
+|-------------------|-----------------------|
+| `window.alert()` | creates dialog box with message (user much click okay to close it) | 
+| `window.open()` | opens new browser window with url specified in parameter | 
+| `window.print()` | Tells browser that user wants to print contents of current page | 
+
 
 #### Document Object Model
 - creates a model of the current web page
 
+|**Method** | **Description** | 
+|-------------------|-----------------------|
+| `document.write()` | writes text to document | 
+| `document.getElementId()` | returns element if there is an element with the value of the id | 
+| `document.querySelectorAll()` | Returns list of element that match a CSS selector | 
+| `document.createElement()` | creates new element | 
+| `document.createTextNode()` | creates new text node | 
+
+
 #### Global JavaScript Objects
 - Do not form a single model... group of individual objects that relate to the JavaScript language
 
+|**Method** | **Description** | 
+|-------------------|-----------------------|
+| `toUpperCase()` | Changes string to uppercase characters | 
+| `toLowerCase()` | Changes string to lowercase characters | 
+| `charAt()` | takes an index number as a parameter and returns the character found at that position | 
+| `indexOf()` | returns index number of the first time a character is found within the string | 
+| `lastIndexOf()` | returns index number of the last time a character is found within the string | 
