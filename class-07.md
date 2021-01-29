@@ -136,3 +136,24 @@ Browsers come with a set of built-in objects:
 | `Math.ceil()` | Rounds up to the nearest integer | 
 | `Math.floor()` | rounds number down to the nearest integer | 
 | `Math.random()` | generates a random number between 0 and 1 |
+
+
+#### Even More Global Objects - Date and Time
+- You must create an instance of the date object
+
+|**Method** | **Description** | 
+|-------------------|-----------------------|
+| `getDate()`  `setDate()` | returns/sets the day of the month (1-31) | 
+| `getDay()` | returns the day of the week (0-6) | 
+| `getFullYear()`  `setFullYear()` | Returns / sets the year (4 digits) | 
+| `getHours()`  `setHours()` | returs/sets the hour (0-23) | 
+| `getMilliseconds()`  `setMilliseconds()` | returns/sets the milliseconds (0-999) |
+| `getMinutes()`  `setMinutes()` | returns/sets the minutes (0-59) | 
+| `getMonth()`  `setMonth()` | returns/sets the month (0-11) | 
+| `getSeconds()`  `setSeconds()` | returns/sets the seconds (0-59) |
+| `getTime()`  `setTime()` | number of milliseconds since Jan 1, 1970 | 
+| `getTimezonOffset()` | returns time zone offset in mins for locale |
+| `toDateString()` | returns "date" as a human-readable string |
+| `toTimeString()` | retunrs "time" as a human-readable string |
+| `toString()` | returns a string representing the specified date |
+
