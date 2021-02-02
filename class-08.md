@@ -45,5 +45,15 @@ then use the offset properties (top or bottom & left or right) to control where 
 `left: 0px;`
 
 
+### z-index
+- when using relative, fixed, or absolute positioning, boxes can overlap.. you can control which elements sit on top using the z-index property
+- Its value is a number
+- the higher the value, the closer that element is to the front
+
+To write it in CSS:
+
+`z-index:`
+
+
 ### Floating Elements
   - takes it out of its normal position and moves it to the far right or far left
