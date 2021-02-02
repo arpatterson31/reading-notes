@@ -88,8 +88,17 @@ To write it in CSS:
 
 ## Page Layouts
 
-- Fixed width layout - does not change size as the user increases or decreases the size of their browser window.
+- Fixed width layout - does not change size as the user increases or decreases the size of their browser window. (uses pixel)
   - advantages: pixel values are accurate, designer has far greater control over appearance and position
   - disadvantages: end up with gaps around the edge of a page, user resolution higher than designer's the page will look smaller
 
-- 
+- Liquid Layout - stretch and contrast as user increases or descreases the size of their browser window (use percentages)
+  - advantages: pages expand to fill the entire window on large screens and in a small screen, it can fit without having to scroll to the side
+  - disadvantages: if width isn't controlled, pages can look very different than what was intended
+
+
+
+## Layout Grids
+
+- 960 pixel grid is widely used by web designers
+
