@@ -66,3 +66,18 @@ or
 
 `float: left`
 
+### Clearing Floats
+- allows you to say that no element should touch the left or right-hand sides of a box
+
+To write it in CSS:
+
+`clear:left`  -- left hand side of box should not touch
+
+`clear:right` -- right hand side of box should not touch
+
+`clear:both` -- neither the left nor right
+
+`clear:none` -- elements can touch either side
+
+
+
