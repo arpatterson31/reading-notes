@@ -81,3 +81,15 @@ To write it in CSS:
 
 
 
+## Screen Size & Resolution
+
+- Because screen sizes and resolution vary, web designers often try to create pages of around **960-1000 pixels** wide
+
+
+## Page Layouts
+
+- Fixed width layout - does not change size as the user increases or decreases the size of their browser window.
+  - advantages: pixel values are accurate, designer has far greater control over appearance and position
+  - disadvantages: end up with gaps around the edge of a page, user resolution higher than designer's the page will look smaller
+
+- 
