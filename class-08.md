@@ -52,8 +52,17 @@ then use the offset properties (top or bottom & left or right) to control where 
 
 To write it in CSS:
 
-`z-index:`
+`z-index: 15`
 
 
 ### Floating Elements
   - takes it out of its normal position and moves it to the far right or far left
+
+To write it in CSS:
+
+`float: right`
+
+or
+
+`float: left`
+
