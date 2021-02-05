@@ -80,7 +80,49 @@ HTML can create forms to collect information from visitors to your site.
 
 - create a tag for each option
 
-7. 
+7. Mutltiple Select box
+
+`<select name="" size="" multiple="multiple">`
+
+`<option value="" selected=""></option>`
+
+`</select>`
+
+8. File Input box
+
+`<input type="file" name="" />`
+
+`<input type="submit" value="upload" />`
+
+9. Submit button
+
+`<input type="submit" name="" value="" />`
+
+10. Image button
+
+`<input type="image" src="" width="" height="" />`
+
+
+- Grouping Form Elements
+
+`<fieldset>`
+
+`<legend>`
+
+`<input>`
+
+`<input>`
+
+`</fieldset>`
+
+### Additional Input Types for HTML5
+
+- date 
+- email 
+- url
+- search
+
+
 
 ## HTML Chapter 14: List, Tables & Forms
 
