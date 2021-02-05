@@ -123,8 +123,38 @@ HTML can create forms to collect information from visitors to your site.
 - search
 
 
-
 ## HTML Chapter 14: List, Tables & Forms
+
+### Using CSS to style lists
+
+`list-style-type:`
+
+
+- unordered lists
+  - none
+  - disc
+  - circle
+  - square
+
+- ordered lists
+  - decimal:  1 2 3
+  - decimal-leading-zero: 01 02 03
+  - lower-alpha: a b c
+  - upper-alpha: A B C
+  - lower-roman: i. ii. iii.
+  - upper-roman: I II III
+
+
+`list-style-image: url("images/star.png");`
+
+
+### Using CSS to style tables
+
+
+
+
+
+
 
 
 ## JS Chapter 6: Events
