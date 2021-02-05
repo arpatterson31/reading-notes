@@ -160,3 +160,45 @@ HTML can create forms to collect information from visitors to your site.
 
 
 ## JS Chapter 6: Events
+
+**Events** happen when a user clicks or taps on a link, hover or swipe over an element, type on a keyboard, resize the window, or when the page they requested loads.
+
+
+### Different Event types
+
+- UI Events 
+  - load: web page finished loading
+  - unload: web page is unloading
+  - error: browser encounters a JS error
+  - resize: window has been resized
+  - scroll: user scrolled up or down the page
+
+- Keyboard Events
+  - keydown: user first presses a key
+  - keyup: user releases a key
+
+- Mouse Events
+  - click: user presses and releases a button over the same element
+  - dblclick: user double clicks
+  - mousedown: user presses a mouse button while over an element
+  - mouseup: user releases a mouse button while over an element
+  - mousemove: user moves the mouse
+  - mouseover: user moves the mouse over an element
+  - mouseout: user moves the mouse off an element
+
+- Form Events
+  - input
+  - change
+  - submit
+  - reset
+  - cut
+  - copy
+  - paste
+  - select
+
+
+
+### JavaScript and Events
+
+- Events can trigger a function - this changes the website and makes it feel interactive becasue it has responded to the user
+
