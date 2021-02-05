@@ -45,7 +45,42 @@ HTML can create forms to collect information from visitors to your site.
 
 ### HTML Structure for Form controls
 
+1. Text Input
 
+`<input type="text" name="" maxlength="" />`
+
+- name: value of this identifies the form control and is sent along with the info they enter to the server
+- maxlength: limit the number of characters a user may enter into the field
+
+2. Password Input
+
+`<input type="password" name="" maxlength="" />`
+
+3. Text Area
+
+`<text area name="" cols="" rows=""></textarea>`
+
+4. Radio Button
+
+`<input type="radio" name="" value="" checked="checked" />`
+
+- create a tag for each button but only one will have a checked attribute
+
+5. Checkbox
+
+`<input type="checkbox" name="" value="" checked="checked" />`
+
+6. Drop down list
+
+`<select name="">`
+
+`<option value=""></option>`
+
+`</select>`
+
+- create a tag for each option
+
+7. 
 
 ## HTML Chapter 14: List, Tables & Forms
 
