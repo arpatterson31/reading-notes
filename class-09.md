@@ -150,10 +150,12 @@ HTML can create forms to collect information from visitors to your site.
 
 ### Using CSS to style tables
 
+- many learned properties at this point can help to style tables like padding, spacing, text-align
 
 
+### Using CSS to style forms
 
-
+- CSS can help make forms easier to use and can make them feel more interactive
 
 
 
