@@ -202,3 +202,12 @@ HTML can create forms to collect information from visitors to your site.
 
 - Events can trigger a function - this changes the website and makes it feel interactive becasue it has responded to the user
 
+element.on*event* = *functionName*;
+
+
+### Event Listeners
+
+Handle events and can deal with more than one function at a time. (not supported by old browsers)
+
+element.addEventListener('*event*', *functionName*, *Boolean*);
+
