@@ -40,8 +40,22 @@
   - fixed: image stays in the same position on the page
   - scroll: image moves up and down as the user scrolls the page
 
-
 ## Chapter 19 HTML Book: Practical Information
 
+### SEO - Search Engine Optimization
+
+**SEO** is the practice of trying to help your site appear nearer the top of search engine results when people look for topics your website covers
+
+- There are on-page and off-page SEO techniques
+
+#### On-page SEO
+
+- Page Title
+- URL/Web Address
+- Headings
+- Text
+- Link Text
+- Image Alt Text
+- Page Descriptions
 
 ## MDN Article: Audio and Video Elements
