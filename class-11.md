@@ -72,5 +72,36 @@
 - Web Hosting - uploading your site to a web server
 
 
-
 ## MDN Article: Audio and Video Elements
+
+- HTML5 comes with elements for embedding rich media in docs
+  - `<video>`
+  - `<audio>`
+
+Example of writing out a video 
+
+`<video controls>`
+
+  `<source src="video.mp4" type="video/mp4>`
+
+`</video>`
+
+- using the `controls` attribute enables the default set of playback controls
+
+### HTMLMediaElementAPI
+
+- `HTMLMediaElement` provides features to allow you to control video and audio players programmatically
+
+
+Examples:
+- `HTMLMediaElement.play()`
+- `HTMLMediaElement.pause()`
+
+### JavaScript
+
+- You can use JS to wire up controls
+- Add EventListeners to create things like:
+  - play/pause button
+  - stop button
+  - rewind or fast-forward
+  
