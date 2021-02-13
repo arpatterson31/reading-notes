@@ -58,4 +58,19 @@
 - Image Alt Text
 - Page Descriptions
 
+### Analytics
+
+- You can analize information about your site visitors through tools that track how they found your site, what they are looking at and when they are leaving.
+- Google Analytics is a great free service
+
+### Domain Names & Hosting
+
+- In order to put your site on the web you will need a domain name and web hosting. 
+
+- Domain name = web address
+
+- Web Hosting - uploading your site to a web server
+
+
+
 ## MDN Article: Audio and Video Elements
