@@ -18,7 +18,7 @@
 - [Reading Assignment 10](class-10.md)
 - [Reading Assignment 11](class-11.md)
 - [Reading Assignment 12](class-12.md)
-- Reading Assignment 13
+- [Reading Assignment 13](class-13.md)
 - Reading Assignment 14
 - Reading Assignment 15
 
