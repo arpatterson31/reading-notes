@@ -24,6 +24,29 @@ function supports_html5_storage() {
     return false;
   }
 }
-```` 
+````
+
+- You can also use **Modernizer** to detect support for HTML5 storage
+
+```` javascript
+if (Modernizr.localstorage) {
+  // window.localStorage is available!
+} else {
+  // no native support for HTML5 storage :(
+  // maybe try dojox.storage or a third-party solution
+}
+````
 
 ### Using HTML5 Storage
+
+- HTML5 Storage is based on named key/value pairs
+  - data is stored on a named key
+  - data can be retrieved with the key
+  - key is always a string -- use things like `parseInt()` or `parseFloat()` to coerce data
+
+- methods to use
+  - `setItem()` - named key that already exists will silently overwrite the previous value
+  - `getItem()`
+  - `removeItem()`
+
+- if you want to keep track of when storage area changes, you can use the *storage* event
