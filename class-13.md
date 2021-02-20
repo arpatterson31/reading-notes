@@ -50,3 +50,12 @@ if (Modernizr.localstorage) {
   - `removeItem()`
 
 - if you want to keep track of when storage area changes, you can use the *storage* event
+
+#### Storage-Event Object
+
+|**Property** | **Type** | **Description** |
+|-------------------|-----------------------|---------------|
+| `key` | string | the named key that was added, removed, or modified |
+| `oldValue` | any | the previous value (now overwritten), or null if a new item was added |
+| `newValue` | any | the new value, or null if an item was removed |
+| `url` | string | the page which called a method that triggered this change |
