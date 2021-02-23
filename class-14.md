@@ -11,9 +11,30 @@
   - transform property followed by the value
   - value specifies the transform type followed by a specific amount inside parentheses
 
+- Examples:
 
+- 2D Rotate - rotate an element from 0 to 360 degrees
+  - `transform: rotate(20deg)`
+
+- 2D Scale - change the appeared size of element
+  - default scale value is 1
+  - `scaleX` will scale the width
+  - `scaleY` will scale the height
+  - `transform: scale(1.25)`
+
+- 2D Translate - pushes and pulls element in different directions without interrupting the normal flow 
+  - `transform: translate(-10px, 25%)`
+  - `translateX` will change position on the horizontal axis
+  - `translateY` will change position on the vertical axis
+
+- 2D Skew - distorts on the horizontal, vertical axis or both
+  - `transform: skewX(5deg)`
+
+- 3D uses perspective and the z axis
 
 ## CSS Transitions & Animations Article
+
+
 
 ## 8 Simple CSS3 transitions that will wow your users Article
 
