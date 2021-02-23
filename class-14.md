@@ -34,8 +34,37 @@
 
 ## CSS Transitions & Animations Article
 
+### Transitions
 
+- allow you to alter the apperance/behavior or an element when it is hovered over, focused on, active, or targeted
 
+- Transition uses pseudo-classes
+  - `:hover`
+  - `:focus`
+  - `:active`
+  - `:target`
+
+- There are 4 transition related properties
+  - `transition-property`
+  - `transition-duration`
+  - `transition-timing-function`
+  - `transition-delay`
+
+### Animations
+
+- Animations help pick up where transitions leave off 
+
+- Animation Properties
+  - `animation-name:`
+  - `animation-duration:`
+  - `animation-timing-function:`
+  - `animation-delay:`
+  - `animation-iteration-count:`
+  - `animation-direction:`
+  - `animation-play-state:`
+  - `animation-fill-mode:`
+  
+  
 ## 8 Simple CSS3 transitions that will wow your users Article
 
 - Fade In - emphasizes functionality or draws attention
