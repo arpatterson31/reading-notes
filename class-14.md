@@ -6,6 +6,21 @@
 
 ## 8 Simple CSS3 transitions that will wow your users Article
 
+- Fade In - emphasizes functionality or draws attention
+  - first set the intial state then the change like hover
+
+````css
+.fade
+{
+        opacity:0.5;
+}
+.fade:hover
+{
+        opacity:1;
+}
+````
+
+
 ## 6 Buttons Animated Article
 
 ## CSS3 Animations: Keyframes Article
