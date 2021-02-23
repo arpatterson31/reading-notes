@@ -64,7 +64,7 @@
   - `animation-play-state:`
   - `animation-fill-mode:`
   
-  
+
 ## 8 Simple CSS3 transitions that will wow your users Article
 
 - Fade In - emphasizes functionality or draws attention
@@ -171,3 +171,7 @@
 ````
 
 # Class 14b Reading Notes - What Google Learned About Teams
+
+- Having the smartest people doesn't mean that the team will be the best
+
+- I enjoy the team I have built in this class. The few core people that I can collaborate with while in remo has made it easier for me to be productive. We vibe really well together and have been able to connect on more of a personal level. This is something I'm going to be looking for when I come out of this course and start looking for employment. It won't matter how much money I can make, but if I enjoy the team I work on, it will make that much better. 
