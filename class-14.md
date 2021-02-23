@@ -2,6 +2,17 @@
 
 ## CSS Transforms Article
 
+- CSS3 has new ways to size, position, and change elements
+  - these new techniques can happen by the **transform** property
+
+- **Transform** property comes in 2 settings: 2D and 3D
+
+- Syntax
+  - transform property followed by the value
+  - value specifies the transform type followed by a specific amount inside parentheses
+
+
+
 ## CSS Transitions & Animations Article
 
 ## 8 Simple CSS3 transitions that will wow your users Article
@@ -108,13 +119,5 @@
         box-shadow: inset 0 0 0 25px #53a7ea;
 }
 ````
-
-## 6 Buttons Animated Article
-
-## CSS3 Animations: Keyframes Article
-
-## 404 Article
-
-## Pure CSS Bounce Animation Article 
 
 # Class 14b Reading Notes - What Google Learned About Teams
