@@ -1,8 +1,7 @@
-# My Code Fellows Reading Notes Repo     
+# My Code Fellows Reading Notes Repo
 
 
-
-
+## Code 301 - Intermediate Software Development
 
 
 ## Code 201 Reading Notes
@@ -54,9 +53,3 @@ Having a *Growth Mindset*, especially during my journey with Code Fellows, is go
  - **YOU GOT THIS!**
 
 ![Growth Mindset](https://www.mvisd.com/cms/lib/TX02216263/Centricity/Domain/1042/brain-teasers-compressor.png)
-
-
-
-
-
-
