@@ -5,26 +5,24 @@
 
 
 ## Code 201 Reading Notes
-- [Reading Assignment 1](class-01.md)
-- [Reading Assignment 2](class-02.md)
-- [Reading Assignment 3](class-03.md)
-- [Reading Assignment 4](class-04.md)
-- [Reading Assignment 5](class-05.md)
-- [Reading Assignment 6](class-06.md)
-- [Reading Assignment 7](class-07.md)
-- [Reading Assignment 8](class-08.md)
-- [Reading Assignment 9](class-09.md)
-- [Reading Assignment 10](class-10.md)
-- [Reading Assignment 11](class-11.md)
-- [Reading Assignment 12](class-12.md)
-- [Reading Assignment 13](class-13.md)
-- [Reading Assignment 14](class-14.md)
-- Reading Assignment 15
 
-
-
+- [Reading Assignment 1](Code201notes/class-01.md)
+- [Reading Assignment 2](Code201notes/class-02.md)
+- [Reading Assignment 3](Code201notes/class-03.md)
+- [Reading Assignment 4](Code201notes/class-04.md)
+- [Reading Assignment 5](Code201notes/class-05.md)
+- [Reading Assignment 6](Code201notes/class-06.md)
+- [Reading Assignment 7](Code201notes/class-07.md)
+- [Reading Assignment 8](Code201notes/class-08.md)
+- [Reading Assignment 9](Code201notes/class-09.md)
+- [Reading Assignment 10](Code201notes/class-10.md)
+- [Reading Assignment 11](Code201notes/class-11.md)
+- [Reading Assignment 12](Code201notes/class-12.md)
+- [Reading Assignment 13](Code201notes/class-13.md)
+- [Reading Assignment 14](Code201notes/class-14.md)
 
 ## Code 102 Reading Notes
+
 [Markdown](learning-markdown.md)  
 [Text Editors and Terminal](learning-text-editors-terminal.md)   
 [Git](learning-git.md)  
