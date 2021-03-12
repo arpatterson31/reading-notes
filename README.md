@@ -23,17 +23,17 @@
 
 ## Code 102 Reading Notes
 
-[Markdown](learning-markdown.md)  
-[Text Editors and Terminal](learning-text-editors-terminal.md)   
-[Git](learning-git.md)  
-[ACP](acp.md)     
-[Website Design](website-design.md)    
-[HTML](html.md)   
-[CSS](css.md)   
-[Dynamic Javascript](dynamic-javascript.md)     
-[How Computers Work](how-computers-work.md)    
-[Programming Javascript](programming-javascript.md)   
-[Operators & Loops](operators-loops.md)
+- [Markdown](Code102notes/learning-markdown.md)  
+- [Text Editors and Terminal](Code102notes/learning-text-editors-terminal.md)
+- [Git](Code102notes/git.md)
+- [ACP](Code102notes/acp.md)
+- [Website Design](Code102notes/website-design.md)
+- [HTML](Code102notes/html.md)
+- [CSS](Code102notes/css.md)
+- [Dynamic Javascript](Code102notes/dynamic-javascript.md)
+- [How Computers Work](Code102notes/how-computers-work.md)
+- [Programming Javascript](Code102notes/programming-javascript.md)
+- [Operators & Loops](Code102notes/operators-loops.md)
  
 
 
