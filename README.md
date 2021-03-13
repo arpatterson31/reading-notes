@@ -4,6 +4,20 @@
 ## Code 301 - Intermediate Software Development
 
 - [Class 01 - Introduction to React and Components](Code301notes/class01-react-intro.md)
+- [Class 02 - State and Props](Code301notes/class02-state-props.md)
+- [Class 03 - Passing Functions as Props](Code301notes/class03-function-props.md)
+- [Class 04 - React and Forms](Code301notes/class04-react-forms.md)
+- [Class 05 - Putting it all together](Code301notes/class05-all-together.md)
+- [Class 06 - NODE.JS](Code301notes/class06-nodejs.md)
+- [Class 07 - REST](Code301notes/class07-rest.md)
+- [Class 08 - APIs](Code301notes/class08-apis.md)
+- [Class 09 - Functional Programming](Code301notes/class09-functional-programming.md)
+- [Class 10 - In Memory Storage](Code301notes/class10-memory-storage.md)
+- [Class 11 - Authentication](Code301notes/class11-authentication.md)
+- [Class 12 - Mongo and Mongoose](Code301notes/class12-mongo-mongoose.md)
+- [Class 13 - CRUD](Code301notes/class13-crud.md)
+- [Class 14 - Updating Resources](Code301notes/class14-updating-resources.md)
+- [Class 15 - Diversity & Inclusion in the Tech Industry](Code301notes/class15-diversity-inclusion.md)
 
 
 ## Code 201 Reading Notes
