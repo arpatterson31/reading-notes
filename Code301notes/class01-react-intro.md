@@ -53,5 +53,22 @@ ReactDOM.render(
 - JSX is an expression too and can be used in function calls and objects
   - can be used inside of `if` statements and `for` loops
 - JSX tags can contain children like `li` in an `ul`
+- JSX can also represent Objects using the `React.createElement()`;
 
+## Rendering Elements
+
+- Elements are the smallest building blocks of React apps.
+  - describes what you want to see on the screen
+
+- DOM nodes get an id of "root" because everything inside it will be managed by React DOM
+
+- To render a React element to the root DOM, you'd pass both to `ReactDom.render();`
+  
+````javascript
+const element = <h1>Hey, girl hey!</h1>;
+ReactDOM.render(element, document.getElementById('root'));
+````
+
+- Elements are unchangeable. Once you create an element, you can't change its children or attributes.
+  - to update the UI, create a new element and pass it
 
