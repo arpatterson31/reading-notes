@@ -55,7 +55,7 @@ ReactDOM.render(
 - JSX tags can contain children like `li` in an `ul`
 - JSX can also represent Objects using the `React.createElement()`;
 
-## Rendering Elements
+## Article - Rendering Elements
 
 - Elements are the smallest building blocks of React apps.
   - describes what you want to see on the screen
@@ -71,4 +71,6 @@ ReactDOM.render(element, document.getElementById('root'));
 
 - Elements are unchangeable. Once you create an element, you can't change its children or attributes.
   - to update the UI, create a new element and pass it
+
+## Article - Components and Props
 
