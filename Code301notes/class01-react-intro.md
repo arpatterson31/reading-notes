@@ -28,3 +28,30 @@ ReactDOM.render(
 );
 ````
 
+## Article - Introducing JSX - React
+
+- JSX is a syntax extension to JavaScript
+- JSX produces React "elements"
+- JSX isn't required but it is helpful when needing a visual aid when working with UI inside of JavaScript code
+- JSX allows React to show more useful error and warning messages
+
+### Example code
+
+````javascript
+const name = 'Audrey';
+const element = <h1>Hey, {name}</h1>;
+
+ReactDOM.render(
+  element,
+  document.getElementById('root')
+);
+````
+
+- Any valid JavaScript expressions can be put inside curly braces in JSX
+  - curly braces for expressions
+  - quotes for string values
+- JSX is an expression too and can be used in function calls and objects
+  - can be used inside of **if** statements and **for** loops
+- JSX tags can contain children like `li` in an `ul`
+
+
