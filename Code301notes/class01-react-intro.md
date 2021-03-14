@@ -1,6 +1,6 @@
 # Readings: Introduction to React and Components
 
-## React Tutorial through 'Passing Data Through Props'
+## Article - React Tutorial through 'Passing Data Through Props'
 
 ### Vocab
 
@@ -13,4 +13,18 @@
 - Passing props is how info flows in React apps, from parents to children
 - To "remember" things, componets use **state**
   - this.state set in constructors -- private to the component it is defined in
+
+## Article - Hello World - React
+
+- Building blocks of React apps: elements and components
+
+- Move over `console.log(hello, world!)` there is a new proof of life in town!
+
+```` javascript
+
+ReactDOM.render(
+  <h1>Hello, world!</h1>,
+  document.getElementById('root')
+);
+````
 
