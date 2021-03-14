@@ -51,7 +51,7 @@ ReactDOM.render(
   - curly braces for expressions
   - quotes for string values
 - JSX is an expression too and can be used in function calls and objects
-  - can be used inside of **if** statements and **for** loops
+  - can be used inside of `if` statements and `for` loops
 - JSX tags can contain children like `li` in an `ul`
 
 
