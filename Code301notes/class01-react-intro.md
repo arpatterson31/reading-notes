@@ -74,3 +74,53 @@ ReactDOM.render(element, document.getElementById('root'));
 
 ## Article - Components and Props
 
+- Conceptually components are like JavaScript functions
+  - they accept parameters called props
+  - they return React elements describing what should appear on the screen
+
+- Simplest way to define a component is writing a JavaScript function
+
+**Example Code**
+
+````javascript
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+````
+
+- these are also called "function components"
+
+### Rendering a Component
+
+#### Example Code
+
+````javascript
+function Welcome(props) {
+  return <h1>Hello, {props.name}</h1>;
+}
+
+const element = <Welcome name="Audrey" />
+ReactDOM.render(
+  element,
+  document.getElementById('root')
+);
+````
+
+#### What is happening above
+
+1. `ReactDom.render()` is called with the `<Welcome name="Audrey" />` element
+2. React calls the `Welcome` component with `{name: 'Audrey'}` as the property
+3. `Welcome` component returns `<h1>Hello, Audrey</h1>` element as the result
+4. React DOM updates the DOM to match
+
+- Always start component names with a capital letter
+
+### Composing Components
+
+- Components can refer to others in their output and can be used for any level of detail
+
+### Extracting components
+
+- Good rule of thumb is to extract components or splitting them into smaller components
+  - for example: if used several times or complex enough on its own
+  
