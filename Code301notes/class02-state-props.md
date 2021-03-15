@@ -23,3 +23,45 @@
 ### Passing Arguments to Event Handlers
 
 - `Arrow functions` and `Function.prototype.bind` can be used to pass arguments to Event Handlers
+
+## Article - Conditional Rendering
+
+- React allows you to create distinct components that uses behaviors you need, then render only some of them, depending on the state of your application
+
+- Works the same as in JavaScript
+  - use `if` or the `conditional operator` to create elements 
+
+### Example code
+
+````javascript
+function Greeting(props) {
+  const isLoggedIn = props.isLoggedIn;
+  if (isLoggedIn) {
+    return <UserGreeting />;
+  }
+  return <GuestGreeting />;
+}
+
+ReactDOM.render(
+  <Greeting isLoggedIn={false} />,
+  document.getElementById('root')
+);
+````
+
+### Element Variables
+
+- variables can store elements
+
+### Conditional Rendering
+
+- If with Logical `&&` Operator
+  - `true && expression` always evaluates to `expression`
+  - `false && expression` always evaluates to `false`
+  - `falsy` will always be skipped but will return the falsy expression
+
+- If-Else with Conditional Operator
+  - `condition ? true : false`
+
+### Preventing Component from Rendering
+
+- return `null` instead of render output
