@@ -2,6 +2,20 @@
 
 ## Article - React - State and Lifecycle
 
+- React components have built-ins
+  - state - stores property values
+  - props - variables passed to it by it's parent component
+
+- Lifecycle methods
+  - runs to mount and unmount component
+
+### State usage
+
+- Do not modify state directly
+  - use `setState():`
+- State updates are merged
+  - react merges the object you provide into the current state
+
 ## Article - React - Handling Events
 
 - Handling events with React are similar to handling events on DOM elements
