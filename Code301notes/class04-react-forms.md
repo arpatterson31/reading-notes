@@ -25,4 +25,3 @@
 
 - Handling multiple controlled `input` elements, add `name` attribute so the handler function can choose what to do based on the value `event.target.name`
 - Name can be set in state to make it dynamic
-
