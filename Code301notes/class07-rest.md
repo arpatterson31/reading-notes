@@ -10,3 +10,11 @@
 
 ## Article - How I explained REST to my brother
 
+- REST: provides a definition of a "resource" - architectural style the world wide web is built on
+
+- web pages are representation of a resource -- resources are just concepts
+
+- HTTP GET: systems retrieving information from each other
+- HTTP POST: one system adding something to another system
+- HTTP PUT: system wants to replace something in another system
+- HTTP PATCH: partial update
