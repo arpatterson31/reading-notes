@@ -2,7 +2,23 @@
 
 ## Concepts of Functional Programming in Javascript
 
+- Programming paradigm - style of building the structure and elements of computer programs
 
+### Pure Functions
+
+- returns the same results if given the same arguments
+- does not cause observable side effects
+- doesn't rely on global variables
+- Benefit is that code becomes easy to test
+
+### Immutability
+
+- State can't be changed after its created
+- Mutability can be handled by using recursion
+
+### Functions as first-class entities
+
+- functions treated as values and used as data
 
 ## Article - Refactoring JavaScript for Performance and Readability
 
