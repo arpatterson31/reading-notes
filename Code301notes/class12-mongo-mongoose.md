@@ -47,7 +47,22 @@
 
 ### Modeling Techniques
 
-1. Atomic Aggregates
+1. Atomic Aggregates - allow one to store a single business entity as one document, row or key-value pair and update it atomically
+2. Enumerable Keys - unordered key-value data that allows entries to be partitioned across multiple servers by hashing the keys
+3. Dimensionality Reduction - allows one to map multidimensional data to a key-value model or other non-multidimensional models
+4. Index Table - allows one to take advantage of indexes in stores that do not support indexes internally
+5. Composite Key Index - allows one to build a kind of multidimensional index which is fundamentally similar to dimensionally reduction technique
+6. Aggregation with Composite Keys 
+7. Inverted Search - Direct Aggreation - data procesesing pattern
+
+### Hierarchy Modeling techniques
+
+1. Tree Aggregation
+2. Adjaceny Lists
+3. Materialized Paths
+4. Nested Sets
+5. Nested Documents Flattening
+6. Batch Graph Processing
 
 ##### Bookmark
 
