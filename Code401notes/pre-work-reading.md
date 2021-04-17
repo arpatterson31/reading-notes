@@ -41,6 +41,13 @@
 
 *“Everyone in this country should learn to program a computer, because it teaches you to think.”* — Steve Jobs
 
+- Encountering a problem -- try this!
 
+1. Understand - Know exactly what is being asked. Most hard problems are hard because you don’t understand them (hence why this is the first step).
+2. Plan - Don’t dive right into solving without a plan (and somehow hope you can muddle your way through). Plan your solution!
+3. Divide - Do not try to solve one big problem. Instead, break it into sub-problems. These sub-problems are much easier to solve.
+4. Stuck? - The difference is the best programmers/problem-solvers are more curious about bugs/errors than irritated.
+
+- PRATICE, PRACTICE, PRACTICE!
 
 ## Article - 5 Whys Getting to the Root of a Problem Quickly
