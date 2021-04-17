@@ -39,4 +39,8 @@
 
 ## Article - How to think like a programmer — lessons in problem solving
 
+*“Everyone in this country should learn to program a computer, because it teaches you to think.”* — Steve Jobs
+
+
+
 ## Article - 5 Whys Getting to the Root of a Problem Quickly
