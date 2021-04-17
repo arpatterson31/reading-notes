@@ -51,3 +51,18 @@
 - PRATICE, PRACTICE, PRACTICE!
 
 ## Article - 5 Whys Getting to the Root of a Problem Quickly
+
+**5 Whys Technique** when a problem occurs, you drill down to its root cause by asking "Why?" five times. Then, when a counter-measure becomes apparent, you follow it through to prevent the issue from recurring.
+
+### When to use
+
+- You can use 5 Whys for troubleshooting, quality improvement, and problem solving, but it is most effective when used to resolve simple or moderately difficult problems.
+
+### How to use the 5 whys
+
+1. Assemble a Team
+2. Define the Problem
+3. Ask the First "Why?"
+4. Ask "Why?" Four More Times
+
+![5 Whys Example](https://www.mindtools.com/media/Diagrams/5_Whys_Figure_1_Single_Lane.jpg)
