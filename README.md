@@ -3,6 +3,7 @@
 ## Code 401 - Advanced Software Development
 
 - [Pre-Work Reading](Code401notes/pre-work-reading.md)
+- [Class 01 Reading](Code401notes/class01.md)
 
 ## Code 301 - Intermediate Software Development
 
