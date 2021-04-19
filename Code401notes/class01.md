@@ -39,9 +39,7 @@ superagent
 ````javascript
 Data.handleAPICall = async (req, res) => {
   const url = `https://rws-cards-api.herokuapp.com/api/v1/cards/random?n=3`;
-  superagent
-    .get(url)
-    .then(function (superagentResults) {
+  const cardResults = await superagent.get(url)
       const cardResults = superagentResults.body.cards;
       console.log('card results: ', cardResults);
       res.status(200).send(cardResults);
@@ -55,4 +53,8 @@ Data.handleAPICall = async (req, res) => {
 
 4. Explain promises as though you were mentoring a Code 301 level student
 
+- Javascript is single threaded meaning it executes code in order and must finish executing one code block before moving on to the next. Promises is the eventual completion (or failure) of an asynchronous operation and its resulting value.
+
 5. Are all callback functions considered to be Asynchronous? Why or Why Not?
+
+- Callbacks are not considered asynchronous. It can be asynchronous if the function returns a promise
