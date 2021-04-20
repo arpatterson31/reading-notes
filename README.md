@@ -3,7 +3,15 @@
 ## Code 401 - Advanced Software Development
 
 - [Pre-Work Reading](Code401notes/pre-work-reading.md)
-- [Class 01 Reading](Code401notes/class01.md)
+- [Class 01 Reading - Node Ecosystem, TDD, CI/CD](Code401notes/class01.md)
+- [Class 02 Reading - Express](Code401notes/class02-express.md)
+- [Class 03 Reading - Expres REST API](Code401notes/class03-express-rest-api.md)
+- [Class 04 Reading - Data Modeling](Code401notes/class04-data-modeling.md)
+- [Read - Linked Lists](Code401notes/read-linked-lists.md)
+- [Class 06 Reading - Authentication](Code401notes/class06-authentication.md)
+- [Class 07 Reading - Bearer Authorization](Code401notes/class07-bearer-authorization.md)
+- [Class 08 Reading - Access Control (ACL)](Code401notes/class08-access-control.md)
+- [Read - Implementation: Stacks and Queues](Code401notes/read-stacks-queues.md)
 
 ## Code 301 - Intermediate Software Development
 
