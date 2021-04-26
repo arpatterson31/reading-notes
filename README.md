@@ -12,6 +12,11 @@
 - [Class 07 Reading - Bearer Authorization](Code401notes/class07-bearer-authorization.md)
 - [Class 08 Reading - Access Control (ACL)](Code401notes/class08-access-control.md)
 - [Read - Implementation: Stacks and Queues](Code401notes/read-stacks-queues.md)
+- [Class 11 Reading - Event Driven Applications](Code401notes/class11-event-driven-applications.md)
+- [Class 12 Reading - Socket.io](Code401notes/class12-socketio.md)
+- [Class 13 Reading - Message Queues](Code401notes/class13-message-queues.md)
+- [Class 14 Reading - Event Driven Architecture](Code401notes/class14-event-driven-architecture.md)
+- [Read - Implementation: Trees](Code401notes/read-trees.md)
 
 ## Code 301 - Intermediate Software Development
 
