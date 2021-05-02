@@ -16,4 +16,4 @@
 ## Other randoms that I learned
 
 - I feel like Stacks and Queues are going to be easier to grasp more than linked-lists!
-- Stacks have pop and push functions like arrays, but they are not the same! 
+- Stacks have pop and push functions like arrays, but they are not the same!
