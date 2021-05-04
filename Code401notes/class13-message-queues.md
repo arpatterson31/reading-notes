@@ -1,4 +1,4 @@
-# Class 12 Reading: Socket.io
+# Class 13 Reading: Message Queues
 
 ## Review, Research, and Discussion
 
