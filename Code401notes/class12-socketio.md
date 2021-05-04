@@ -39,6 +39,12 @@
 
 ### Which 3 things had you heard about previously and now have better clarity on?
 
+- All of the things that were previewed were new terms to me. So I haven't used them previously either. The info on web sockets seem pretty easy to grasp so I'm hoping that stays true as we go through lecture.
+
 ### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
+- Websockets, TCP, and the OSI Model
+
 ### What are you most excited about trying to implement or see how it works?
+
+- Socket.io because I'm interested in seeing how it will change lab 11. I always like learning new libraries.

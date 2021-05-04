@@ -17,13 +17,13 @@
 ## Document the following vocab words
 
 - **socket:**
-- **web socket:**
+- **web socket:** a computer communications protocol, providing full-duplex communication channels over a single TCP connection. *[source](https://en.wikipedia.org/wiki/WebSocket)*
 - **socket.io:**
 - **client:**
 - **server:**
-- **OSI model:**
+- **OSI model (Open Systems Interconnection model):** a conceptual model that characterises and standardises the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. Its goal is the interoperability of diverse communication systems with standard communication protocols. *[source](https://en.wikipedia.org/wiki/OSI_model)*
 - **TCP Model:**
-- **TCP:**
+- **TCP:** Transmission control protocol - 
 - **UDP:**
 - **Packets:**
 
