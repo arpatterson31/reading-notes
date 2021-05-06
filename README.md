@@ -17,6 +17,10 @@
 - [Class 13 Reading - Message Queues](Code401notes/class13-message-queues.md)
 - [Class 14 Reading - Event Driven Architecture](Code401notes/class14-event-driven-architecture.md)
 - [Read - Implementation: Trees](Code401notes/read-trees.md)
+- [Class 16 Reading - AWS Cloud Servers](Code401/class16-aws-cloud-servers.md)
+- [Class 17 Reading - AWS: S3 and Lambda](Code401notes/class17-aws-s3-lambda.md)
+- [Class 18 Reading - AWS: API](Code401notes/class18-aws-api.md)
+- [Class 19 Reading - AWS: Events](Code401notes/class19-aws-events.md)
 
 ## Code 301 - Intermediate Software Development
 
