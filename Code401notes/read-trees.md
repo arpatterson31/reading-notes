@@ -26,4 +26,4 @@
 
 ## Other thoughts
 
-- This may be confusing for some but it helped me visualize a tree like a family tree. Where you are the root of the tree and the "child nodes" are actually going to be your parents. haha So it might not be a good way to think of it, but that was my first thought when I saw the images.
+- This may be confusing for some but it helped me visualize a tree like a family tree. Where you are the root of the tree and the "child nodes" are actually going to be your parents...then their "child nodes" are their parents and so forth... haha So it might not be a good way to think of it, but that was my first thought when I saw the images.
