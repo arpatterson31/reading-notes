@@ -1,4 +1,4 @@
-# Class 17 Reading: AWS: Cloud Servers
+# Class 17 Reading: AWS: S3 Lambda
 
 ## Review, Research, and Discussion
 
