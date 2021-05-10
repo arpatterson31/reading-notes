@@ -1,47 +1,35 @@
-# Class 18 Reading: AWS: API
+# Class 18 Reading: AWS: API, Dynamo, and Lambda
 
 ## Review, Research, and Discussion
 
-### Describe the Cloud
+### What are serverless functions?
 
-- "The cloud" refers to servers that are accessed over the Internet, and the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using cloud computing, users and companies don't have to manage physical servers themselves or run software applications on their own machines. *[source](https://www.cloudflare.com/learning/cloud/what-is-the-cloud/)*
+- single-purpose, programmatic functions that are hosted on managed infrastructure. These functions, which are invoked through the Internet, are hosted and maintained by cloud computing companies. The engineering teams within those companies ensure that the serverless functions have near-perfect uptime, redundant instances around the world, and scale to any incoming network request volume.*[source](https://www.pubnub.com/blog/what-is-a-serverless-function/)*
 
-### What is a container(as it relates to computers and servers)?
+### If you were to create a system that emulated Lambda functions, how would you do it?
 
-- A container 'contains' both an application and all the elements the application needs to run properly, including system libraries, system settings, and other dependencies. *[source](https://www.cloudflare.com/learning/serverless/serverless-vs-containers/)*
+- You could use serverless functions or you could create a CL tool to locally run and remotely deploy your node.js applications *[source](https://stackoverflow.com/questions/34196043/are-there-any-emulator-for-aws-lambda/34499308)*
 
-### What is auto-scaling?
+### Describe how a CDN works
 
-- A method used in cloud computing that dynamically adjusts the amount of computational resources in a server farm - typically measured by the number of active servers - automatically based on the load on the farm. *[source](https://en.wikipedia.org/wiki/Autoscaling)*
-
-### What is bandwidth?
-
-- the maximum rate of data transfer across a given path. Bandwidth may be characterized as network bandwidth, data bandwidth, or digital bandwidth. *[source](https://en.wikipedia.org/wiki/Bandwidth_(computing))*
-
-### How do cloud providers compute service costs?
-
-- Containers are constantly running, and therefore cloud providers have to charge for the server space even if no one is using the application at the time.
-- There are no continued expenses in a serverless architecture because application code does not run unless it is called. Instead, developers are only charged for the server capacity that their application does in fact use. *[source](https://www.cloudflare.com/learning/serverless/serverless-vs-containers/)*
+- CDNs work through servers nearest to the website visitor respond to the request. The content delivery network copies the pages of a website to a network of servers that are spread out at geographically different locations, caching the contents of the page. When a user requests a webpage that is part of a content delivery network, the CDN will redirect the request from the originating site’s server to a server in the CDN that is closest to the user and deliver the cached content. CDNs will also communicate with the originating server to deliver any content that has not been previously cached. In turn, the speed is improved by distributing content closer to the website visitors by using a nearby CDN server, causing visitors to experience faster page loading times. In simpler terms, for example, instead of a user in London trying to access a server in LA, which can cause slower Internet speeds, the user would be redirected through a CDN that is geographically closest to them (London, Paris, Stockholm, etc). As of today, the majority of web traffic goes through through CDNs, including traffic from major sites like Facebook, Netflix, and Amazon. *[source](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)*
 
 ## Document the following vocab words
 
-- **Server Instances:** a collection of SQL Server databases which are run by a solitary SQL Server service or instance. The details of each server instance can be viewed on the service console which can be web-based or command-line based. The instances are not linked with each other and can be controlled or managed separately. *[source](https://www.techopedia.com/definition/32149/server-instance#:~:text=A%20server%20instance%20is%20a,based%20or%20command%2Dline%20based.)*
-- **Containers:** application and all the elements the application needs to run properly, including system libraries, system settings, and other dependencies. *[source](https://www.cloudflare.com/learning/serverless/serverless-vs-containers/)*
-- **Cloud Services:** wide range of services delivered on demand to companies and customers over the internet. These services are designed to provide easy, affordable access to applications and resources, without the need for internal infrastructure or hardware. *[source](https://www.citrix.com/glossary/what-is-a-cloud-service.html#:~:text=The%20term%20%22cloud%20services%22%20refers,for%20internal%20infrastructure%20or%20hardware.)*
-- **Cloud Architecture:** the systems architecture of the software systems involved in the delivery of cloud computing, typically involves multiple cloud components communicating with each other over a loose coupling mechanism such as a messaging queue. Elastic provision implies intelligence in the use of tight or loose coupling as applied to mechanisms such as these and others. *[source](https://en.wikipedia.org/wiki/Cloud_computing#Architecture)*
-- **AWS:** Amazon web services
-- **EC2/Beanstalk vs Heroku:** Heroku and AWS Elastic Beanstalk, solutions (production configurations) is that they have comparable features and pricing. One big difference is that Heroku’s pricing takes exponential price jumps as one adds common additional features, e.g., auto-scaling, where-as AWS pricing is fairly linear. On the other hand, Heroku is generally simpler to get up and running as AWS has a fairly steep initial learning curve. *[source](https://codeburst.io/heroku-v-s-aws-elastic-beanstalk-1cc6f12ca3c7)*
+- **Serverless functions:** single-purpose, programmatic functions that are hosted on managed infrastructure. These functions, which are invoked through the Internet, are hosted and maintained by cloud computing companies. The engineering teams within those companies ensure that the serverless functions have near-perfect uptime, redundant instances around the world, and scale to any incoming network request volume.*[source](https://www.pubnub.com/blog/what-is-a-serverless-function/)*
+- **Cloud Storage:** a cloud computing model that stores data on the Internet through a cloud computing provider who manages and operates data storage as a service. It’s delivered on demand with just-in-time capacity and costs, and eliminates buying and managing your own data storage infrastructure. This gives you agility, global scale and durability, with “anytime, anywhere” data access. *[source](https://aws.amazon.com/what-is-cloud-storage/)*
+- **CDN:** Content Delivery Network (CDN) is a geographically distributed group of servers that work together to provide fast delivery of Internet content. A CDN allows for the fast transfer of data needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos. *[source](https://cyberhoot.com/cybrary/content-delivery-network-cdn/)*
 
 ## Preview
 
 ### Which 3 things had you heard about previously and now have better clarity on?
 
-- I've heard of CND and have used in the past on code fellow projects. I have heard of AWS but are not aware of their S3 or Lambda products
+- I haven't heard of Amazon API or DynamoDB but I'm excited to learn more about them. I have used MongoDB as a NoSQL db so hopefully there isn't a huge difference.
 
 ### Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 
-- I'm hoping that we dive pretty deep into the different AWS services. It would be a good benefit for me to understand how these things work as I try to enter the industy.
+- DynamoDB, hopefully it will be easy to use like MongoDB. But I'm excited to be learning other NoSQL dbs
 
 ### What are you most excited about trying to implement or see how it works?
 
-- Any of the AWS stuff!
+- Dynamoose, not only does it have great name, but if its easy like mongoose was for MongoDB, I'm all for it!
