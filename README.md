@@ -21,13 +21,13 @@
 - [Class 17 Reading - AWS: S3 and Lambda](Code401notes/class17-aws-s3-lambda.md)
 - [Class 18 Reading - AWS: API](Code401notes/class18-aws-api.md)
 - [Class 19 Reading - AWS: Events](Code401notes/class19-aws-events.md)
-- [Class 26 Reading - AWS Cloud Servers](Code401/class26-component-based-ui.md)
-- [Class 27 Reading - AWS: S3 and Lambda](Code401notes/class27-props-state.md)
-- [Class 28 Reading - AWS: API](Code401notes/class28-component-composition.md)
-- [Class 29 Reading - AWS: Events](Code401notes/class29-routing.md)
+- [Class 26 Reading - Component Based UI](Code401/class26-component-based-ui.md)
+- [Class 27 Reading - Props and State](Code401notes/class27-props-state.md)
+- [Class 28 Reading - Component Composition](Code401notes/class28-component-composition.md)
+- [Class 29 Reading - Routing](Code401notes/class29-routing.md)
 - [Read - Implementation: Hash Tables](Code401notes/read-hash-tables.md)
-- [Class 31 Reading - AWS: API](Code401notes/class31-hooks-api.md)
-- [Class 32 Reading - AWS: Events](Code401notes/class32-custom-hooks.md)
+- [Class 31 Reading - Hooks API](Code401notes/class31-hooks-api.md)
+- [Class 32 Reading - Custom Hooks](Code401notes/class32-custom-hooks.md)
 
 ## Code 301 - Intermediate Software Development
 
