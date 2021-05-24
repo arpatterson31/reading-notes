@@ -28,6 +28,13 @@
 - [Read - Implementation: Hash Tables](Code401notes/read-hash-tables.md)
 - [Class 31 Reading - Hooks API](Code401notes/class31-hooks-api.md)
 - [Class 32 Reading - Custom Hooks](Code401notes/class32-custom-hooks.md)
+- [Class 33 Reading - Context API](Code401notes/class33-context-api.md)
+- [Class 34 Reading - Login and Auth](Code401notes/class34-login-auth.md)
+- [Read - Implementation: Graphs](Code401notes/read-graphs.md)
+- [Class 36 Reading - Application State with Redux](Code401notes/class36-app-state-redux.md)
+- [Class 37 Reading - Redux - Combined Reducers](Code401notes/class37-redux-combined-reducers.md)
+- [Class 38 Reading - Redux - Asynchronous Actions](Code401notes/class38-redux-async-actions.md)
+- [Class 39 Reading - Redux - Additional Topics](Code401notes/class39-redux-additional-topics.md)
 
 ## Code 301 - Intermediate Software Development
 
