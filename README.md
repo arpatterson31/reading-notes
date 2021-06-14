@@ -35,6 +35,8 @@
 - [Class 37 Reading - Redux - Combined Reducers](Code401notes/class37-redux-combined-reducers.md)
 - [Class 38 Reading - Redux - Asynchronous Actions](Code401notes/class38-redux-async-actions.md)
 - [Class 39 Reading - Redux - Additional Topics](Code401notes/class39-redux-additional-topics.md)
+- [Class 41 Reading - React Native](Code401notes/class41-react-native.md)
+- [Class 42 Reading - Ethics in Tech](Code401notes/class42-ethics-tech.md)
 
 ## Code 301 - Intermediate Software Development
 
